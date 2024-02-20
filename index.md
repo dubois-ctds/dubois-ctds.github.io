@@ -8,13 +8,21 @@ Collaborative development of a new introductory, interdisciplinary course for co
 * The introductory Data Science curriculum is at the intersection of computing, statistics, and the social and behavioral sciences. The course consists of scaffolded modules designed to promote effective engagement with modern socio-technical systems.
 * This partnership developes course modules in teams composed of members from institution with the intention of sharing interdisciplinary knowledge, experience with a variety of students, and range of classroom practices.
 
-# Project Timeline
-
-Full curriculum to come soon! 
+# Project Events
 
 * **Spring 2024**: Exploratory course offering with UC Merced's Spark Seminar, targeted towards campus freshmen from all disciplines.
 * **Fall 2023**: Initial collaboration and idea design.
 * **Summer 2023**: Pilot set of modules in UC Berkeley's Summmer [Data 6](https://data6.org/su23/).
+
+# Curriculum Overview
+
+This project plans for four course modules, built as 2-3 week units and designed by interdisciplinary, inter-institutional teams:
+* Fundamental Data Structures for Data Science. Bortfeld (chair).
+* Visualization, Gender, and Education. Yan (chair).
+* Social Application Core: Algorithms and Functions. Marcia (chair).
+* Text processing and data analysis. Ndoye (chair).
+
+Full curriculm to come soon!
 
 ## Project Funding
 This project is funded by the following sources:
