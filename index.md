@@ -31,4 +31,4 @@ This project is funded by the following sources:
 
 ## Project Naming
 
-Why DUBOIS? At the core of our activities, we would like to **B**roaden **O**pportunities in **D**ata science for **U**nderserved students in order to advance an **I**nclusive **S**ociety. W.E.B. Du Bois was a prominent 20th century African American activist who leveraged data science and visualization to advocate for Pan-African civil rights.
+Why DUBOIS? At the core of our activities, we would like to support **D**ata science for **U**ndergraduates to **B**roaden **O**pportunities for advancing an **I**nclusive **S**ociety. W.E.B. Du Bois was a prominent 20th century African American activist who leveraged data science and visualization to advocate for Pan-African civil rights.
