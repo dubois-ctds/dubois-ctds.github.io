@@ -18,7 +18,7 @@ Collaborative development of a new introductory, interdisciplinary course for co
 * **June 2024**: We held an in-person curriculum workshop co-located with the National Workshop on Data Science Education at UC Berkeley! Please see [our presentation slides](https://docs.google.com/presentation/d/1wU6hVHxOwugU3N49k4ytHgdJ1XXrirn-dpu_wbpaYmk/edit?usp=sharing).
 * **Spring 2024**: Exploratory course offering with UC Merced's Spark Seminar, targeted towards campus freshmen from all disciplines.
 * **Fall 2023**: Initial collaboration and idea design.
-* **Summer 2023**: Pilot set of modules in UC Berkeley's Summmer [Data 6](https://data6.org/su23/).
+* **Summer 2023**: Pilot set of modules in UC Berkeley's Summer [Data 6](https://data6.org/su23/).
 
 # Curriculum Overview
 
