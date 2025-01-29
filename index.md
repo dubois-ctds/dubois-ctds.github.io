@@ -28,7 +28,7 @@ This project plans for four course modules, built as 2-3 week units and designed
 * Social Application Core: Algorithms and Functions. Marcia (chair).
 * Text processing and data analysis. Ndoye (chair).
 
-Full curriculm to come soon!
+Full curriculum to come soon!
 
 ## Project Funding
 This project is funded by the following sources:
