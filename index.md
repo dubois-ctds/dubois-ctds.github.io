@@ -32,7 +32,7 @@ Full curriculum to come soon!
 
 ## Project Funding
 This project is funded by the following sources:
-* **NSF IUSE: CUE** [homepage](https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing). Developing inclusive, interdisciplinary undergraduate data science curricula in computing and social science \[ Collaborative Research: [link 1](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245877), [link 2](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245878), [link 3](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245879) \]
+* This material is based upon work supported by the U.S. National Science Foundation under award Nos. [2245877](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245877), [2245878](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245878), [2245879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245879). NSF [IUSE CUE](https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing): "Collaborative Research: Developing inclusive, interdisciplinary undergraduate data science curricula in computing and social science."
 * **California Learning Lab**. Collaborative Design of Interdisciplinary, Inclusive, Introductory Data Science Course Modules \[[link](https://calearninglab.org/project/collaborative-design-of-interdisciplinary-inclusive-introductory-data-science-course-modules/)\]
 
 ## Project Naming
