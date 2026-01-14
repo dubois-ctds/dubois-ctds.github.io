@@ -5,9 +5,9 @@ layout: home
 
 # Symposium on Undergraduate Data Science Education
 
-You are cordially invited to our first Symposium on Undergraduate Data Science Education on **May 18-20, 2026** at the Auburn University Dixon Conference Center in Auburn, Alabama.
+You are cordially invited to our first Symposium on Undergraduate Data Science Education on May 18-20, 2026 at the Auburn University Dixon Conference Center in Auburn, Alabama.
 
-![Program flyer](flyer.png)
+![Symposium Flyer]({{site.url}}/{{site.baseurl}}/assets/images/flyer.png)
 
 The purpose of this symposium is to convene faculty and students with interest in promoting Data Science Education to experience the DUBOIS Data Science and explore the adaptability of this curriculum on their campuses. We are planning several hands-on sessions at the Symposium where participants will directly engage with the curriculum.
 
@@ -41,4 +41,4 @@ Please complete the participation interest form: [https://tinyurl.com/DataSc-Sym
 
 ## Contact
 
-For any questions, please email: Dr. Mohammed Qazi (mqazi@tuskegee.edu) and Dr. Yasmeen Rawajfih (yrawajfih@tuskegee.edu)
+For any questions, please email: Dr. Mohammed Qazi (mqazi at tuskegee.edu) and Dr. Yasmeen Rawajfih (yrawajfih at tuskegee.edu)

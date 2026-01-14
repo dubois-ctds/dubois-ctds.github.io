@@ -5,7 +5,7 @@ layout: home
 
 # DUBOIS
 
-![DUBOIS logo](logo.png)
+![DUBOIS logo]({{site.url}}/{{site.baseurl}}/assets/images/logo.png)
 
 Collaborative development of a new introductory, interdisciplinary course for computing, data science, and society.
 * The introductory Data Science curriculum is at the intersection of computing, statistics, and the social and behavioral sciences. The course consists of scaffolded modules designed to promote effective engagement with modern socio-technical systems.
