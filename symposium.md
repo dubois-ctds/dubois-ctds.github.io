@@ -37,7 +37,7 @@ We highly encourage participation by small interdisciplinary teams of 2-3 Facult
 
 Please complete the participation interest form: [https://tinyurl.com/DataSc-Symposium](https://tinyurl.com/DataSc-Symposium)
 
-**PRIORITY DEADLINE**: Jan 31, 2026 (to be considered for travel support)
+**PRIORITY DEADLINE**: Feb 15, 2026 (to be considered for travel support)
 
 ## Contact
 
