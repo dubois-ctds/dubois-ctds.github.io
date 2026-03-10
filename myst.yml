@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 96bcb4ee-c668-46be-a663-0ec3e01c9c9d
+  title: DUBOIS
+  description: A new introductory, interdisciplinary course for computing, data science, and society.
+  # keywords: []
+  # authors: []
+  github: https://github.com/dubois-ctds/dubois-ctds.github.io
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+    - file: symposium.md
+    - file: team.md
+    
+site:
+  template: book-theme
