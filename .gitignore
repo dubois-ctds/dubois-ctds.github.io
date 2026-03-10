@@ -17,3 +17,6 @@ vendor/
 .*.swp
 .*.swo
 .DS_Store
+
+# MyST build outputs
+_build
