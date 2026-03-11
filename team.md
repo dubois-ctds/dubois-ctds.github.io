@@ -1,6 +1,5 @@
 ---
 title: Team
-layout: home
 ---
 
 Each category lists team members in alphabetical order. 

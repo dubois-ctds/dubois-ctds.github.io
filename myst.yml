@@ -15,3 +15,8 @@ project:
     
 site:
   template: book-theme
+  options:
+    favicon: "logo/Dubois - Logomark.png" 
+    logo: "logo/Dubois - Logomark.png" 
+    folders: true
+    hide_authors: true
