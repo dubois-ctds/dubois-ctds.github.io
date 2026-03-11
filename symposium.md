@@ -19,7 +19,11 @@ The purpose of this symposium is to convene faculty and students with interest i
 
 Symposium activities will include a broad range of sessions, such as panels, poster presentations and time for participants to reflect on a potential for working collaboratively to advance Data Science opportunities on their campuses.
 
-## Participants
+## For Participants
+
+:::{toc}
+:context: section
+:::
 
 We highly encourage participation by small interdisciplinary teams of 2-3 Faculty Members from each institution (e.g. Computer Scientists, Engineers, Mathematicians, Social and Behavioral Scientists) who have an interest in starting a Data Science curriculum on their campuses or enhancing an existing one. *We strongly encourage teams of faculty or faculty and students from the same institution to attend the Symposium.* Single Faculty participation is welcomed as well. Faculty may also bring interested students with them!
 

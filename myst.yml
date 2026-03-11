@@ -12,6 +12,14 @@ project:
     - file: index.md
     - file: symposium.md
     - file: team.md
+
+    - title: "Curriculum"
+      children:
+      - title: "Fundamentals Module"
+        children:
+          - file: curriculum/fundamentals/index.md
+          - file: curriculum/fundamentals/week1.md
+          - file: curriculum/fundamentals/week2.md
     
 site:
   template: book-theme
