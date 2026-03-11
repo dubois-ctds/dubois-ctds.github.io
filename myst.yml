@@ -13,18 +13,18 @@ project:
     - file: symposium.md
     - file: team.md
 
-    - title: "Curriculum"
+    - file: curriculum/index.md
+
+    - title: "Fundamentals Module"
       children:
-      - title: "Fundamentals Module"
-        children:
-          - file: curriculum/fundamentals/index.md
-          - file: curriculum/fundamentals/week1.md
-          - file: curriculum/fundamentals/week2.md
+        - file: curriculum/fundamentals/index.md
+        - file: curriculum/fundamentals/week1.md
+        - file: curriculum/fundamentals/week2.md
     
 site:
   template: book-theme
   options:
-    favicon: "logo/Dubois - Logomark.png" 
-    logo: "logo/Dubois - Logomark.png" 
+    favicon: "assets/images/logomark.png"
+    logo: "assets/images/logomark.png"
     folders: true
     hide_authors: true
