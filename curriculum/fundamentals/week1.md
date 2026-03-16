@@ -14,5 +14,6 @@ title: "Week 1"
 
 ## Lab 1: Reading and Exploring Datasets
 
-  * [PDF Version](https://drive.google.com/file/d/1lwFYfiBfZarYmRlopzuBovZSrHq-yr1l/view?usp=drive_link) | [Google Docs Version](https://docs.google.com/document/d/1UnMX8xWWk1G5fERnZ8a92QnKdjpWbLjyXrlG4DcvKyU/edit?usp=drive_link) | [Github Link](https://github.com/dubois-ctds/data_module_drafts/tree/main/labs/lab01)  
+  * [PDF Version](https://drive.google.com/file/d/1lwFYfiBfZarYmRlopzuBovZSrHq-yr1l/view?usp=drive_link) | [Google Docs Version](https://docs.google.com/document/d/1UnMX8xWWk1G5fERnZ8a92QnKdjpWbLjyXrlG4DcvKyU/edit?usp=drive_link) 
+  * [Jupyter Notebook on Github](https://github.com/dubois-ctds/data_module_drafts/tree/main/labs/lab01)  
   * In this lab, students will inspect a dataset's characteristics and practice preliminary data cleaning and then analyze the story of a data set.
