@@ -15,11 +15,22 @@ project:
 
     - file: curriculum/index.md
 
-    - title: "Fundamentals Module"
+    - title: "Fundamentals"
       children:
         - file: curriculum/fundamentals/index.md
         - file: curriculum/fundamentals/week1.md
         - file: curriculum/fundamentals/week2.md
+    - title: "Data and Privacy"
+      children: 
+        - file: curriculum/data-privacy/index.md
+        - file: curriculum/data-privacy/week1.md
+        - file: curriculum/data-privacy/week2.md
+        - file: curriculum/data-privacy/week3.md
+    - title: "Visualizations"
+      children: 
+        - file: curriculum/visualizations/index.md
+        - file: curriculum/visualizations/week1.md
+        - file: curriculum/visualizations/week2.md
     
 site:
   template: book-theme
