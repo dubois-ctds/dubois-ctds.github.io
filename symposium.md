@@ -31,7 +31,7 @@ We highly encourage participation by small interdisciplinary teams of 2-3 Facult
 
 **Location**: Graduate Hilton by Auburn; 202 W Magnolia Ave, Auburn, AL 36830 ([update 3/3: instead of the earlier Auburn University Conference Centre])
 
-**Symposium Dates/Times**: The Symposium will start on May 18 at 12 PM and conclude on May 20 at 12 PM. An agenda is forthcoming.
+**Symposium Dates/Times**: The Symposium will start on May 18 at 12 PM and conclude on May 20 at 12 PM. Here is a [tentative agenda](https://docs.google.com/document/d/1yLGyqdGdMdlqgKwMwUp9pFJKw0oLoy8iWQuHw4lx2pY/edit?usp=sharing).
 
 **Travel Funds**: Funds are available to support participant travel, based on need (opportunities are limited). More information below.
 
