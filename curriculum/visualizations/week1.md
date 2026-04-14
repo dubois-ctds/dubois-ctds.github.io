@@ -5,5 +5,5 @@ title: "Week 1"
 * PDF Version | Google Slides Version
 
 ## Lab: Visualizations
-* Jupyter Notebook on GitHub
+* [Jupyter Notebook](https://dubois-ctds.github.io/data_module_drafts/lab05/)
 
