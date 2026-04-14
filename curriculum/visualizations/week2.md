@@ -8,10 +8,10 @@ title: "Week 2"
 * PDF Version | Google Slides Version
 
 ## Homework: Data Visualization
-* Jupyter Notebook on GitHub
+* [Jupyter Notebook](https://dubois-ctds.github.io/data_module_drafts/hw03/)
 
 ## Lecture: Summary Statistics and Boxplots
 * PDF Version | Google Slides Version
 
 ## Lab: Histograms and Summary Statistics
-* Jupyter Notebook on GitHub
+* [Jupyter Notebook](https://dubois-ctds.github.io/data_module_drafts/lab06/)
