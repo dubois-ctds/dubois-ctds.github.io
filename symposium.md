@@ -1,6 +1,7 @@
 ---
 title: "Symposium on Undergraduate Data Science Education"
 short_title: Symposium (May 2026)
+trailing_slash: false
 ---
 
 You are cordially invited to our first Symposium on Undergraduate Data Science Education on May 18-20, 2026 at the Auburn University Dixon Conference Center in Auburn, Alabama.
@@ -8,6 +9,10 @@ You are cordially invited to our first Symposium on Undergraduate Data Science E
 [![Symposium Flyer](assets/images/flyer.png)](https://tinyurl.com/DataSci-Symposium)
 
 The purpose of this symposium is to convene faculty and students with interest in promoting Data Science Education to experience the DUBOIS Data Science and explore the adaptability of this curriculum on their campuses. We are planning several hands-on sessions at the Symposium where participants will directly engage with the curriculum.
+
+:::{toc}
+:context: section
+:::
 
 ## Symposium Objectives
 
@@ -19,22 +24,6 @@ The purpose of this symposium is to convene faculty and students with interest i
 
 Symposium activities will include a broad range of sessions, such as panels, poster presentations and time for participants to reflect on a potential for working collaboratively to advance Data Science opportunities on their campuses.
 
-## For Participants
-
-:::{toc}
-:context: section
-:::
-
-We highly encourage participation by small interdisciplinary teams of 2-3 Faculty Members from each institution (e.g. Computer Scientists, Engineers, Mathematicians, Social and Behavioral Scientists) who have an interest in starting a Data Science curriculum on their campuses or enhancing an existing one. *We strongly encourage teams of faculty or faculty and students from the same institution to attend the Symposium.* Single Faculty participation is welcomed as well. Faculty may also bring interested students with them!
-
-## Venue Information
-
-**Location**: Graduate Hilton by Auburn; 202 W Magnolia Ave, Auburn, AL 36830 ([update 3/3: instead of the earlier Auburn University Conference Centre])
-
-**Symposium Dates/Times**: The Symposium will start on May 18 at 12 PM and conclude on May 20 at 12 PM. Here is a [tentative agenda](https://docs.google.com/document/d/1yLGyqdGdMdlqgKwMwUp9pFJKw0oLoy8iWQuHw4lx2pY/edit?usp=sharing).
-
-**Travel Funds**: Funds are available to support participant travel, based on need (opportunities are limited). More information below.
-
 <!--
 ## Register to Participate
 
@@ -43,7 +32,27 @@ Please complete the participation interest form: [https://tinyurl.com/DataSci-Sy
 **PRIORITY DEADLINE**: Feb 15, 2026 (to be considered for travel support)
 -->
 
+## Agenda
+
+The agenda below is also available as a [Google Doc](https://docs.google.com/document/d/1yLGyqdGdMdlqgKwMwUp9pFJKw0oLoy8iWQuHw4lx2pY/edit?usp=sharing).
+
+:::{iframe} https://docs.google.com/document/d/e/2PACX-1vTVGFwuOo-k5m9mx1VWgW0DhFP5GlSN8wZ6R1ObUVXbl-0qz5B95o6_j4JLoH6Q9WsY6h9yClPASBI6/pub?embedded=true
+:width: 100%
+:title: "DUBOIS Symposium Flyer
+:::
+
+## Venue Information
+
+**Location**: Graduate Hilton by Auburn; 202 W Magnolia Ave, Auburn, AL 36830 <!--([update 3/3: instead of the earlier Auburn University Conference Centre])-->
+
+**Symposium Dates/Times**: The Symposium will start on May 18 at 12 PM and conclude on May 20 at 12 PM. Here is a [tentative agenda](https://docs.google.com/document/d/1yLGyqdGdMdlqgKwMwUp9pFJKw0oLoy8iWQuHw4lx2pY/edit?usp=sharing).
+
+**Travel Funds**: Funds are available to support participant travel, based on need (opportunities are limited). More information below.
+
+
 ## Participant Details
+
+We highly encourage participation by small interdisciplinary teams of 2-3 Faculty Members from each institution (e.g. Computer Scientists, Engineers, Mathematicians, Social and Behavioral Scientists) who have an interest in starting a Data Science curriculum on their campuses or enhancing an existing one. *We strongly encourage teams of faculty or faculty and students from the same institution to attend the Symposium.* Single Faculty participation is welcomed as well. Faculty may also bring interested students with them!
 
 ### Getting to the Venue
 
