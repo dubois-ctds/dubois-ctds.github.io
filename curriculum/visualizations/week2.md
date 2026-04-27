@@ -17,6 +17,5 @@ title: "Week 2"
   * [Google Slides](https://docs.google.com/presentation/d/1E7ZhMiWICfvCpsyvonn3_ESSMsNwtXcfC42Ndv9xvhk/edit?usp=sharing)
   * [Assignment PDF](https://drive.google.com/file/d/14uRY4Qc74SbgGq9p-XEH_3nCWPP7bPYU/view?usp=sharing)
 
-
 ## Lab 2: Histograms and Summary Statistics
 * [Jupyter Notebook](https://dubois-ctds.github.io/data_module_drafts/lab06/)
