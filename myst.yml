@@ -15,11 +15,17 @@ project:
 
     - file: curriculum/index.md
 
+
     - title: "Fundamentals"
       children:
         - file: curriculum/fundamentals/index.md
         - file: curriculum/fundamentals/week1.md
         - file: curriculum/fundamentals/week2.md
+    - title: "Fundamentals (Fall 2025)"
+      children:
+        - file: curriculum/fundamentals_fa25/index.md
+        - file: curriculum/fundamentals_fa25/week1.md
+        - file: curriculum/fundamentals_fa25/week2.md
     - title: "Data and Privacy"
       children: 
         - file: curriculum/data-privacy/index.md
