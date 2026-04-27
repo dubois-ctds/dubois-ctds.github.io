@@ -9,8 +9,8 @@ title: "Week 1"
   * [Assignment PDF](https://drive.google.com/file/d/1oGgpKEkAzTeEklgWxP0jJEHFuNGKWVSY/view?usp=sharing)
  
 ## Discussion 1: WMD, and Names, Operations
-  * [Google Slides]()
-  * [Assignment PDF]()
+  * [Google Slides](https://docs.google.com/presentation/d/14F_ElQJv1HLNDg66yCys4tLlQeY-p6EXU6rk4acLGcc/edit?usp=sharing)
+  * [Assignment PDF](https://drive.google.com/file/d/1SZFC_D3dPJWBZFKhri6nFYcGem8ss2RX/view?usp=sharing)
 
 ## Lab 1: Using Jupyter Notebooks
   * [Jupyter Notebook](https://dubois-ctds.github.io/data_module_drafts/lab01-1/)
