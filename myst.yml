@@ -27,7 +27,7 @@ project:
         - file: curriculum/fundamentals_fa25/week1.md
         - file: curriculum/fundamentals_fa25/week2.md
         - file: curriculum/fundamentals_fa25/week3.md
-        - file: curriculum/fundamentals_fa25/week3.md
+        - file: curriculum/fundamentals_fa25/week4.md
     - title: "Data and Privacy"
       children: 
         - file: curriculum/data-privacy/index.md
