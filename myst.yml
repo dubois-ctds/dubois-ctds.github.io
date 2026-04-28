@@ -39,6 +39,11 @@ project:
         - file: curriculum/visualizations/index.md
         - file: curriculum/visualizations/week1.md
         - file: curriculum/visualizations/week2.md
+    - title: "Functions"
+      children: 
+        - file: curriculum/functions/index.md
+        - file: curriculum/functions/week1.md
+        - file: curriculum/functions/week2.md
     
 site:
   template: book-theme
