@@ -44,6 +44,11 @@ project:
         - file: curriculum/functions/index.md
         - file: curriculum/functions/week1.md
         - file: curriculum/functions/week2.md
+    - title: "Current Topics"
+      children: 
+        - file: curriculum/functions/index.md
+        - file: curriculum/functions/week1.md
+        - file: curriculum/functions/week2.md
     
 site:
   template: book-theme
