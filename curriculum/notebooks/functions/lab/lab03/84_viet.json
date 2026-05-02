@@ -1,0 +1,94 @@
+{
+    "address_components": [
+        {
+            "long_name": "2050",
+            "short_name": "2050",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "long_name": "Berkeley Way",
+            "short_name": "Berkeley Way",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "long_name": "Downtown Berkeley",
+            "short_name": "Downtown Berkeley",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Berkeley",
+            "short_name": "Berkeley",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Alameda County",
+            "short_name": "Alameda County",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "94704",
+            "short_name": "94704",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "formatted_address": "2050 Berkeley Way, Berkeley, CA 94704, USA",
+    "geometry": {
+        "location": {
+            "lat": 37.8727848,
+            "lng": -122.2689469
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+            "northeast": {
+                "lat": 37.87413378029149,
+                "lng": -122.2675979197085
+            },
+            "southwest": {
+                "lat": 37.87143581970849,
+                "lng": -122.2702958802915
+            }
+        }
+    },
+    "place_id": "ChIJvYVN455-hYARYgl-Gvk5SQc",
+    "plus_code": {
+        "compound_code": "VPFJ+4C Berkeley, CA, USA",
+        "global_code": "849VVPFJ+4C"
+    },
+    "types": [
+        "establishment",
+        "food",
+        "point_of_interest",
+        "restaurant"
+    ]
+}

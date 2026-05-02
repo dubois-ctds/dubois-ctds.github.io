@@ -49,6 +49,118 @@ project:
         - file: curriculum/functions/index.md
         - file: curriculum/functions/week1.md
         - file: curriculum/functions/week2.md
+    - title: Jupyter Notebooks
+      children: 
+        - title: Fundamentals (Fall 2025)
+          children:
+          - title: Lecture notebooks
+            children:
+            - title: Lecture 01
+              file: curriculum/notebooks/fundamentals_fa25/lecture_notebook/lec01/lec01.ipynb
+            - title: Lecture 02
+              file: curriculum/notebooks/fundamentals_fa25/lecture_notebook/lec02/lec02.ipynb
+            - title: Lecture 03
+              file: curriculum/notebooks/fundamentals_fa25/lecture_notebook/lec03/lec03.ipynb
+            - title: Lecture 04
+              file: curriculum/notebooks/fundamentals_fa25/lecture_notebook/lec04/lec04.ipynb
+          - title: Labs
+            children:
+            - title: Lab 01
+              file: curriculum/notebooks/fundamentals_fa25/lab/lab01/lab01.ipynb
+            - title: Lab 02
+              file: curriculum/notebooks/fundamentals_fa25/lab/lab02/lab02.ipynb
+            - title: Lab 03
+              file: curriculum/notebooks/fundamentals_fa25/lab/lab03/lab03.ipynb
+          - title: Homeworks
+            children:
+            - title: Homework 01
+              file: curriculum/notebooks/fundamentals_fa25/homework/hw01/hw01.ipynb
+            - title: Homework 02
+              file: curriculum/notebooks/fundamentals_fa25/homework/hw02/hw02.ipynb
+        - title: Visualizations
+          children:
+          - title: Lecture notebooks
+            children:
+            - title: Lecture 01
+              file: curriculum/notebooks/visualizations/lecture_notebook/lec01/lec01.ipynb
+            - title: Lecture 02
+              file: curriculum/notebooks/visualizations/lecture_notebook/lec02/lec02.ipynb
+            - title: Lecture 03
+              file: curriculum/notebooks/visualizations/lecture_notebook/lec03/lec03.ipynb
+            - title: Lecture 04
+              file: curriculum/notebooks/visualizations/lecture_notebook/lec04/lec04.ipynb
+            - title: Lecture 05
+              file: curriculum/notebooks/visualizations/lecture_notebook/lec05/lec05.ipynb
+            - title: Lecture 06
+              file: curriculum/notebooks/visualizations/lecture_notebook/lec06/lec06.ipynb
+          - title: Labs
+            children:
+            - title: Lab 01
+              file: curriculum/notebooks/visualizations/lab/lab01/lab01.ipynb
+            - title: Lab 02
+              file: curriculum/notebooks/visualizations/lab/lab02/lab02.ipynb
+            - title: Lab 03
+              file: curriculum/notebooks/visualizations/lab/lab03/lab03.ipynb
+          - title: Homeworks
+            children:
+            - title: Homework 01
+              file: curriculum/notebooks/visualizations/homework/hw01/hw01.ipynb
+          - title: Projects
+            children:
+            - title: Project 01
+              file: curriculum/notebooks/visualizations/project/project1/project1.ipynb 
+        - title: Functions
+          children:
+          - title: Lecture notebooks
+            children:
+            - title: Lecture 01
+              file: curriculum/notebooks/functions/lecture_notebook/lec01/lec01.ipynb
+            - title: Lecture 02
+              file: curriculum/notebooks/functions/lecture_notebook/lec02/lec02.ipynb
+            - title: Lecture 03
+              file: curriculum/notebooks/functions/lecture_notebook/lec03/lec03.ipynb
+            - title: Lecture 04
+              file: curriculum/notebooks/functions/lecture_notebook/lec04/lec04.ipynb
+          - title: Labs
+            children:
+            - title: Lab 01
+              file: curriculum/notebooks/functions/lab/lab01/lab01.ipynb
+            - title: Lab 02
+              file: curriculum/notebooks/functions/lab/lab02/lab02.ipynb
+            - title: Lab 03
+              file: curriculum/notebooks/functions/lab/lab03/lab03.ipynb
+          - title: Homeworks
+            children:
+            - title: Homework 01
+              file: curriculum/notebooks/functions/homework/hw01/hw01.ipynb
+            - title: Homework 02
+              file: curriculum/notebooks/functions/homework/hw02/hw02.ipynb
+          - title: Projects
+            children:
+            - title: Project 02
+              file: curriculum/notebooks/functions/project/project2/project2.ipynb 
+        - title: Current topics
+          children:
+          - title: Lecture notebooks
+            children:
+            - title: Lecture 01
+              file: current_topics/lecture_notebook/lec01/lec01.ipynb
+            - title: Lecture 02
+              file: current_topics/lecture_notebook/lec02/lec02.ipynb
+          - title: Labs
+            children:
+            - title: Lab 01
+              file: current_topics/lab/lab01/lab01.ipynb
+            - title: Lab 02
+              file: current_topics/lab/lab02/lab02.ipynb
+          - title: Projects
+            children:
+            - title: Final Project
+              children: 
+                - title: Final Project (Part A)
+                  file: current_topics/project/project_final/project_final_partA.ipynb
+                - title: Final Project (Part B)
+                  file: current_topics/project/project_final/project_final_partB.ipynb
     
 site:
   template: book-theme
