@@ -4,7 +4,6 @@ title: "Week 4"
 
 ## Lecture 5: Variables
   * [Google Slides](https://docs.google.com/presentation/d/1fRqkluSMxhjpZ1KF3Aej3q_vQmfsKJdOKgH8W7_Emrg/edit?usp=sharing)  
-  * [Jupyter Notebook]()
 
 ## Lecture 6: Variables II
   * [Google Slides](https://docs.google.com/presentation/d/188k81VCOqUojTv8MQ5uv9V_13J4tBzEjZVPFs1nogoY/edit?usp=sharing)  
