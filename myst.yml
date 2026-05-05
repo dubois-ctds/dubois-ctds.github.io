@@ -144,15 +144,15 @@ project:
           - title: Lecture notebooks
             children:
             - title: Lecture 01
-              file: current_topics/lecture_notebook/lec01/lec01.ipynb
+              file: curriculum/notebooks/current-topics/lecture_notebook/lec01/lec01.ipynb
             - title: Lecture 02
-              file: current_topics/lecture_notebook/lec02/lec02.ipynb
+              file: curriculum/notebooks/current-topics/lecture_notebook/lec02/lec02.ipynb
           - title: Labs
             children:
             - title: Lab 01
-              file: current_topics/lab/lab01/lab01.ipynb
+              file: curriculum/notebooks/current-topics/lab/lab01/lab01.ipynb
             - title: Lab 02
-              file: current_topics/lab/lab02/lab02.ipynb
+              file: curriculum/notebooks/current-topics/lab/lab02/lab02.ipynb
           - title: Projects
             children:
             - title: Project 2
