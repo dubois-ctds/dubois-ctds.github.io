@@ -46,9 +46,9 @@ project:
         - file: curriculum/functions/week2.md
     - title: "Current Topics"
       children: 
-        - file: curriculum/functions/index.md
-        - file: curriculum/functions/week1.md
-        - file: curriculum/functions/week2.md
+        - file: curriculum/current-topics/index.md
+        - file: curriculum/current-topics/week1.md
+        - file: curriculum/current-topics/week2.md
     - title: Jupyter Notebooks
       children: 
         - title: Fundamentals (Fall 2025)
