@@ -155,12 +155,14 @@ project:
               file: current_topics/lab/lab02/lab02.ipynb
           - title: Projects
             children:
+            - title: Project 2
+              file: curriculum/notebooks/current-topics/project/project2/project2.ipynb
             - title: Final Project
               children: 
                 - title: Final Project (Part A)
-                  file: current_topics/project/project_final/project_final_partA.ipynb
+                  file: curriculum/notebooks/current-topics/project/project_final/project_final_partA.ipynb
                 - title: Final Project (Part B)
-                  file: current_topics/project/project_final/project_final_partB.ipynb
+                  file: curriculum/notebooks/current-topics/project/project_final/project_final_partB.ipynb
     
 site:
   template: book-theme
