@@ -10,3 +10,7 @@ title: "Week 5"
 
 ## Project: Final Project (Part B)
   * [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/notebooks/current-topics/project/project-final/project-final-partb/)
+
+## Discussion 2: The Belmont Report
+  * [Assignment PDF](https://drive.google.com/file/d/148q1xx5mqod1a-5vSjlvPyty4VRxwS3I/view?usp=sharing)
+
