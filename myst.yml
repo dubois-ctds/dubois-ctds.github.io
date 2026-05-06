@@ -51,6 +51,7 @@ project:
         - file: curriculum/current-topics/week2.md
         - file: curriculum/current-topics/week3.md
         - file: curriculum/current-topics/week4.md
+        - file: curriculum/current-topics/week5.md
     - title: Jupyter Notebooks
       children: 
         - title: Fundamentals (Fall 2025)
