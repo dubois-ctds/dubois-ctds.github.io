@@ -1,5 +1,5 @@
 ---
-title: "Current Topics"
+title: "Functions"
 short_title: "Overview"
 ---
 
