@@ -17,8 +17,8 @@ title: "Week 1"
   * In this lecture, students are tasked with using boolean comparisons, operators, and truth tables. They practice these concepts with nested control statements and boolean short-circuiting.
 
 ## Discussion 1: Functions and Conditionals
-  * [Google Slides]()
-  * [Assignment PDF]()
+  * [Google Slides](https://docs.google.com/presentation/d/1oQz6XJcEFZdh7Yx7kQTjtN1TBQdzyZp4ybNLN1x-wtA/edit?usp=sharing)
+  * [Assignment PDF](https://drive.google.com/file/d/1NbUEvJHdifoo4d6IBxjloHn1HukGV_PV/view?usp=sharing)
 
 ## Lab 1: Functions and Conditionals
   * [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/notebooks/functions/lab/lab01/lab01/)
