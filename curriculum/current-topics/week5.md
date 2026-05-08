@@ -9,7 +9,9 @@ title: "Week 5"
   * [Google Slides](https://docs.google.com/presentation/d/1FK8lAQ7il_26DMAIDMIKKmA-UyR1GCVdUIohf1zRE7o/edit?usp=sharing)  
 
 ## Project: Final Project (Part B)
+  * [Google Doc](https://docs.google.com/document/d/1tw_CiD_84eJJKPvyKOKFL-4CAen2szSEKytggsvKm84/edit?usp=sharing)
   * [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/notebooks/current-topics/project/project-final/project-final-partb/)
+
 
 ## Discussion 2: The Belmont Report
   * [Assignment PDF](https://drive.google.com/file/d/148q1xx5mqod1a-5vSjlvPyty4VRxwS3I/view?usp=sharing)
