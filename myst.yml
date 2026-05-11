@@ -98,6 +98,35 @@ project:
         - file: curriculum/functions/index.md
         - file: curriculum/functions/week1.md
         - file: curriculum/functions/week2.md
+        - title: Lecture notebooks
+          children:
+          - title: Lecture 01
+            file: curriculum/functions/lecture_notebook/lec01/lec01.ipynb
+          - title: Lecture 02
+            file: curriculum/functions/lecture_notebook/lec02/lec02.ipynb
+          - title: Lecture 03
+            file: curriculum/functions/lecture_notebook/lec03/lec03.ipynb
+          - title: Lecture 04
+            file: curriculum/functions/lecture_notebook/lec04/lec04.ipynb
+        - title: Labs
+          children:
+          - title: Lab 01
+            file: curriculum/functions/lab/lab01/lab01.ipynb
+          - title: Lab 02
+            file: curriculum/functions/lab/lab02/lab02.ipynb
+          - title: Lab 03
+            file: curriculum/functions/lab/lab03/lab03.ipynb
+        - title: Homeworks
+          children:
+          - title: Homework 01
+            file: curriculum/functions/homework/hw01/hw01.ipynb
+          - title: Homework 02
+            file: curriculum/functions/homework/hw02/hw02.ipynb
+        - title: Projects
+          children:
+          - title: Project 02
+            file: curriculum/functions/project/project2/project2.ipynb 
+
     - title: "Current Topics"
       children: 
         - file: curriculum/current-topics/index.md

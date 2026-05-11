@@ -1,0 +1,83 @@
+Team,Name,Number,POS,Age,HT,WT,Exp,College
+Offense,Mac Jones,10,QB,27,"6' 3""",220 lbs,5,Alabama
+Offense,Adrian Martinez,4,QB,25,"6' 2""",220 lbs,1,Kansas State
+Offense,Brock Purdy,13,QB,25,"6' 1""",220 lbs,4,Iowa State
+Offense,Isaac Guerendo,31,RB,25,"6' 0""",221 lbs,2,Louisville
+Offense,Jordan James,29,RB,21,"5' 9""",208 lbs,R,Oregon
+Offense,Christian McCaffrey,23,RB,29,"5' 11""",210 lbs,9,Stanford
+Offense,Brian Robinson Jr.,3,RB,26,"6' 1""",225 lbs,4,Alabama
+Offense,Kyle Juszczyk,44,FB,34,"6' 2""",235 lbs,13,Harvard
+Offense,Kendrick Bourne,84,WR,30,"6' 1""",205 lbs,9,Eastern Washington
+Offense,Jauan Jennings,15,WR,28,"6' 3""",212 lbs,5,Tennessee
+Offense,Skyy Moore,9,WR,25,"5' 10""",195 lbs,4,Western Michigan
+Offense,Ricky Pearsall,1,WR,25,"6' 1""",189 lbs,2,Florida
+Offense,Demarcus Robinson,5,WR,31,"6' 1""",202 lbs,10,Florida
+Offense,Jordan Watkins,17,WR,23,"5' 11""",196 lbs,R,Ole Miss
+Offense,Luke Farrell,89,TE,28,"6' 5""",250 lbs,5,Ohio State
+Offense,George Kittle,85,TE,32,"6' 4""",250 lbs,9,Iowa
+Offense,Jake Tonges,88,TE,26,"6' 4""",240 lbs,3,California
+Offense,Jake Brendel,64,C,33,"6' 4""",299 lbs,8,UCLA
+Offense,Matt Hennessy,61,C,27,"6' 3""",315 lbs,5,Temple
+Offense,Connor Colby,75,G,22,"6' 5""",309 lbs,R,Iowa
+Offense,Drew Moss,65,G,22,"6' 3""",303 lbs,R,Colorado State
+Offense,Dominick Puni,77,G,25,"6' 5""",313 lbs,2,Kansas
+Offense,Colton McKivitz,68,OT,29,"6' 6""",301 lbs,6,West Virginia
+Offense,Austen Pleasants,62,OT,28,"6' 7""",330 lbs,1,Ohio
+Offense,Trent Williams,71,OT,37,"6' 5""",320 lbs,16,Oklahoma
+Defense,Robert Beal Jr.,51,DE,25,"6' 4""",250 lbs,3,Georgia
+Defense,Yetur Gross-Matos,94,DE,27,"6' 5""",265 lbs,6,Penn State
+Defense,Bryce Huff,47,DE,27,"6' 3""",255 lbs,6,Memphis
+Defense,Mykel Williams,98,DE,21,"6' 5""",267 lbs,R,Georgia
+Defense,Alfred Collins,95,DT,24,"6' 5""",332 lbs,R,Texas
+Defense,Kalia Davis,93,DT,27,"6' 2""",310 lbs,4,UCF
+Defense,Jordan Elliott,92,DT,27,"6' 4""",303 lbs,6,Missouri
+Defense,Kevin Givens,90,DT,28,"6' 1""",285 lbs,6,Penn State
+Defense,Sam Okuayinonu,91,DT,27,"6' 1""",269 lbs,3,Maryland
+Defense,CJ West,99,DT,23,"6' 1""",316 lbs,R,Indiana
+Defense,Tatum Bethune,48,LB,24,"6' 1""",230 lbs,2,Florida State
+Defense,Luke Gifford,57,LB,30,"6' 3""",243 lbs,7,Nebraska
+Defense,Nick Martin,45,LB,23,"5' 11""",221 lbs,R,Oklahoma State
+Defense,Curtis Robinson,59,LB,27,"6' 3""",235 lbs,4,Stanford
+Defense,Dee Winters,53,LB,25,"5' 11""",227 lbs,3,TCU
+Defense,Renardo Green,0,CB,24,"6' 0""",186 lbs,2,Florida State
+Defense,Deommodore Lenoir,2,CB,26,"5' 10""",200 lbs,5,Oregon
+Defense,Chase Lucas,26,CB,28,"5' 11""",184 lbs,3,Arizona State
+Defense,Darrell Luter Jr.,28,CB,25,"6' 0""",190 lbs,3,South Alabama
+Defense,Siran Neal,33,CB,31,"6' 0""",206 lbs,8,Jacksonville State
+Defense,Upton Stout,20,CB,23,"5' 9""",181 lbs,R,Western Kentucky
+Defense,Ji'Ayir Brown,27,S,25,"5' 11""",202 lbs,3,Penn State
+Defense,Malik Mustapha,6,S,23,"5' 10""",206 lbs,2,Wake Forest
+Defense,Jason Pinnock,25,S,26,"6' 0""",200 lbs,5,Pittsburgh
+Defense,Marques Sigle,36,S,23,"5' 11""",199 lbs,R,Kansas State
+Special Teams,Eddy Pineiro,18,PK,30,"5' 11""",190 lbs,8,Florida
+Special Teams,Thomas Morstead,7,P,39,"6' 4""",225 lbs,17,SMU
+Special Teams,Jon Weeks,46,LS,39,"5' 10""",242 lbs,16,Baylor
+Injured Reserve Or Out,Kurtis Rourke,4,QB,25,"6' 4""",220 lbs,R,Indiana
+Injured Reserve Or Out,Patrick Taylor Jr.,32,RB,27,"6' 2""",217 lbs,5,Memphis
+Injured Reserve Or Out,Brandon Aiyuk,11,WR,27,"6' 0""",200 lbs,6,Arizona State
+Injured Reserve Or Out,Jacob Cowing,19,WR,24,"5' 9""",171 lbs,2,Arizona
+Injured Reserve Or Out,Trent Taylor,81,WR,31,"5' 8""",180 lbs,7,Louisiana Tech
+Injured Reserve Or Out,Ben Bartch,78,G,27,"6' 6""",315 lbs,6,Saint John's (MN)
+Injured Reserve Or Out,Spencer Burford,74,OT,25,"6' 4""",300 lbs,4,UTSA
+Injured Reserve Or Out,Nick Bosa,97,DE,28,"6' 4""",266 lbs,7,Ohio State
+Injured Reserve Or Out,Tarron Jackson,56,DE,27,"6' 2""",254 lbs,3,Coastal Carolina
+Injured Reserve Or Out,Fred Warner,54,LB,28,"6' 3""",230 lbs,8,BYU
+Injured Reserve Or Out,Jakob Robinson,49,CB,25,"5' 10""",181 lbs,R,BYU
+Injured Reserve Or Out,Tre Tomlinson,35,CB,25,"5' 9""",177 lbs,3,TCU
+Practice Squad,Sincere McCormick,,RB,25,"5' 8""",204 lbs,3,UTSA
+Practice Squad,Junior Bergen,86,WR,23,"5' 9""",184 lbs,R,Montana
+Practice Squad,Russell Gage Jr.,14,WR,29,"6' 0""",184 lbs,7,LSU
+Practice Squad,Malik Turner,18,WR,29,"6' 2""",202 lbs,5,Illinois
+Practice Squad,Brayden Willis,82,TE,25,"6' 4""",240 lbs,3,Oklahoma
+Practice Squad,Drake Nugent,66,C,24,"6' 1""",300 lbs,1,Michigan
+Practice Squad,Isaac Alarcon,67,OT,27,"6' 7""",320 lbs,1,--
+Practice Squad,Brandon Parker,75,OT,30,"6' 8""",320 lbs,7,North Carolina A&T
+Practice Squad,Nick Zakelj,63,OT,26,"6' 6""",316 lbs,4,Fordham
+Practice Squad,William Bradley-King,,DE,27,"6' 4""",265 lbs,1,Baylor
+Practice Squad,Evan Anderson,58,DT,23,"6' 3""",326 lbs,2,Florida Atlantic
+Practice Squad,Sebastian Valdez,,DT,23,"6' 3""",301 lbs,R,Washington
+Practice Squad,Stone Blanton,50,LB,23,"6' 1""",227 lbs,R,Mississippi State
+Practice Squad,Trevis Gipson,56,LB,28,"6' 4""",263 lbs,6,Tulsa
+Practice Squad,Jalen Graham,41,LB,24,"6' 3""",220 lbs,3,Purdue
+Practice Squad,Eli Apple,30,CB,30,"6' 1""",203 lbs,10,Ohio State
+Practice Squad,Derrick Canteen,,CB,24,"5' 10""",193 lbs,R,Cincinnati
