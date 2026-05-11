@@ -63,6 +63,36 @@ project:
         - file: curriculum/visualizations/index.md
         - file: curriculum/visualizations/week1.md
         - file: curriculum/visualizations/week2.md
+        - title: Lecture notebooks
+          children:
+          - title: Lecture 01
+            file: curriculum/visualizations/lecture_notebook/lec01/lec01.ipynb
+          - title: Lecture 02
+            file: curriculum/visualizations/lecture_notebook/lec02/lec02.ipynb
+          - title: Lecture 03
+            file: curriculum/visualizations/lecture_notebook/lec03/lec03.ipynb
+          - title: Lecture 04
+            file: curriculum/visualizations/lecture_notebook/lec04/lec04.ipynb
+          - title: Lecture 05
+            file: curriculum/visualizations/lecture_notebook/lec05/lec05.ipynb
+          - title: Lecture 06
+            file: curriculum/visualizations/lecture_notebook/lec06/lec06.ipynb
+        - title: Labs
+          children:
+          - title: Lab 01
+            file: curriculum/visualizations/lab/lab01/lab01.ipynb
+          - title: Lab 02
+            file: curriculum/visualizations/lab/lab02/lab02.ipynb
+          - title: Lab 03
+            file: curriculum/visualizations/lab/lab03/lab03.ipynb
+        - title: Homeworks
+          children:
+          - title: Homework 01
+            file: curriculum/visualizations/homework/hw01/hw01.ipynb
+        - title: Projects
+          children:
+          - title: Project 01
+            file: curriculum/visualizations/project/project1/project1.ipynb 
     - title: "Functions"
       children: 
         - file: curriculum/functions/index.md
