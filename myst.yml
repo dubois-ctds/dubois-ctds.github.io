@@ -10,11 +10,20 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: index.md
-    - file: symposium.md
+    - title: "Symposium (May 2026)"
+      children:
+        - title: Overview and Getting Here
+          file: symposium/index.md
+        - title: Agenda
+          file: symposium/agenda.md
+        - file: symposium/curriculum1.md
+          hidden: true
+        - file: symposium/lab01_presentation.ipynb
+          hidden: true
+
     - file: team.md
 
     - file: curriculum/index.md
-
 
     - title: "Fundamentals"
       children:

@@ -1,7 +1,6 @@
 ---
 title: "Symposium on Undergraduate Data Science Education"
 short_title: Symposium (May 2026)
-trailing_slash: false
 ---
 
 You are cordially invited to our first Symposium on Undergraduate Data Science Education on May 18-20, 2026 at the Auburn University Dixon Conference Center in Auburn, Alabama.
