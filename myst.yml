@@ -18,10 +18,12 @@ project:
           file: symposium/agenda.md
         - file: symposium/curriculum01/index.md
           # hidden: true
-        - file: symposium/curriculum01/lab01_presentation.ipynb
+        - file: symposium/curriculum01/lab01-presentation.ipynb
           # hidden: true
         - file: symposium/curriculum02/index.md
-        - file: symposium/curriculum02/lab02_bickel-otter.ipynb
+        - file: symposium/curriculum02/lab02-bickel-otter.ipynb
+        - file: symposium/curriculum03/index.md
+        - file: symposium/curriculum03/lab03-ai-blank.ipynb
 
     - file: team.md
 
