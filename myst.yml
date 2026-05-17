@@ -17,9 +17,10 @@ project:
         - title: Agenda
           file: symposium/agenda.md
         - file: symposium/curriculum01/index.md
-          hidden: true
-        - file: symposium/curriculum01/lab01_presentation.ipynb
-          hidden: true
+          #hidden: true
+        # - file: symposium/curriculum01/lab01_presentation.ipynb
+        #   hidden: true
+        # - file: symposium/curriculum02/index.md
 
     - file: team.md
 

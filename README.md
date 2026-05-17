@@ -20,5 +20,7 @@ To run `uv` version of `jupyter-book`: [docs](https://docs.astral.sh/uv/guides/i
 
 ```
 uv run --with jupyter
-uv run --with jupyter jupyter book init
+uv run --with jupyter jupyter book start
 ```
+
+If you are using Visual Studio Code, open the [integrated browser](https://code.visualstudio.com/docs/debugtest/integrated-browser).

@@ -55,7 +55,12 @@ We highly encourage participation by small interdisciplinary teams of 2-3 Facult
 
 ### Getting to the Venue
 
-For those who will be travelling by air, the closest recommended airport with the most flight options is Atlanta's Hartfield Jackson International airport. Auburn is about 100 miles from the airport via I-85. There is a convenient shuttle service ([Groome Transportation](https://groometransportation.com/auburn/?&sd_client_id=3592e67a-8239-4172-b354-685ad6e9a711)) that connects the airport with the Groome central office in Auburn, in addition to many car rental options. As you plan your travels, please note that ATL is on EASTERN time zone while Auburn is on CENTRAL time zone.
+**Getting to Auburn, AL**: For those who will be travelling by air, the closest recommended airport with the most flight options is Atlanta's Hartfield Jackson International airport. Auburn is about 100 miles from the airport via I-85. There is a convenient shuttle service ([Groome Transportation](https://groometransportation.com/auburn/?&sd_client_id=3592e67a-8239-4172-b354-685ad6e9a711)) that connects the airport with the Groome central office in Auburn, in addition to many car rental options. As you plan your travels, please note that ATL is on EASTERN time zone while Auburn is on CENTRAL time zone.
+
+**Parking**: Parking: Parking is available in the Wright Street Parking Deck, located across from the hotel at 140 Wright St, Auburn, AL 36830. The parking fee is $1.00 / hr. Please retain the receipt as part of your reimbursement.
+
+More information on the [Auburn City website](https://www.auburnal.gov/office-of-the-city-manager/downtown-parking/)
+
 
 ### Lodging
 
@@ -64,6 +69,7 @@ A block of rooms has been set aside at the Holiday Inn Express located at 2013 S
 To book your room for this hotel block, please check your email for the Google Form that we sent out to pre-registered participants.
 
 ### Travel Support Process
+
 We have a limited amount of travel funding that we would like to use (1) to support participants from as many institutions as possible, and (2) to encourage small teams from institutions.
 
 * Tuskegee University, which is one of the four partner DUBOIS institutions, can reimburse participants for travel related costs, used to cover air fare, lodging and ground transportation for a maximum of $1,000 / person.
