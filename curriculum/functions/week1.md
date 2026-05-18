@@ -3,7 +3,7 @@ title: "Week 1"
 ---
 
 ## Lecture 1: Functions, Scope, and Apply
-  * [Google Slides](https://docs.google.com/presentation/d/1o_pmebj1qkgTZZGspO46VAzIEAv2mJKwoVK3JwHGL8U/edit?usp=sharing)  
+  * [Google Slides](presentation/d/1o_pmebj1qkgTZZGspO46VAzIEAv2mJKwoVK3JwHGL8U/edit?usp=sharing)  
   * [Jupyter Notebook](curriculum/functions/lecture-notebook/lec01/lec01/)
   * This lecture tasks students with defining function terminology such as parameters inputs, outputs, and return values. Students explore the role of scoping while they learn to apply functions to table columns and utilize string methods.
 
