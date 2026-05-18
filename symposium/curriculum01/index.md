@@ -47,13 +47,13 @@ Then, follow the login instructions below. If you have any issues, try using Saf
 :width: 100%
 :title: "DUBOIS Curriculum 1 Workshop"
 :::
-The above presentation is also available as [Google Slides](https://docs.google.com/presentation/d/1RPaKQYYHQajkkKg7jvdXC8j4q7Q8Il1xMiQByOnrlWU/edit?usp=sharing).
+The above presentation is also available as [Google Slides](https://docs.google.com/presentation/d/15fWACHvgmjtJvP_SxlX0D0cEG2cXuZX_yoycWex_Ze8/edit?usp=sharing).
 ::::
 
 ## Full Resources
 
 1. [Google Drive](https://drive.google.com/drive/folders/1Ih0BVthfVpugZFwJPNSyFnjTA0TYQtzs?usp=drive_link) (view all [Workshops and Symposiums](https://drive.google.com/drive/folders/1O_Dl9uybTp26hDX7XdGCf192bzDcJAZI?usp=drive_link))
-  * [Curriculum 1 Slides](https://docs.google.com/presentation/d/1RPaKQYYHQajkkKg7jvdXC8j4q7Q8Il1xMiQByOnrlWU/edit?usp=sharing)
+  * [Curriculum 1 Slides](https://docs.google.com/presentation/d/15fWACHvgmjtJvP_SxlX0D0cEG2cXuZX_yoycWex_Ze8/edit?usp=sharing)
   * [Curriculum 1 Drive](https://drive.google.com/drive/folders/18zRh5iEkZPNka1_duFtWAPZleA1_Gv5X?usp=sharing)
 3. [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/tree/main/symposium)
   * [Jupyter Notebook](symposium/curriculum01/lab01-presentation)
