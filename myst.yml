@@ -12,15 +12,12 @@ project:
     - file: index.md
     - title: "Symposium (May 2026)"
       children:
-        - title: Overview and Getting Here
-          file: symposium/index.md
-        - title: Agenda
-          file: symposium/agenda.md
+        - file: symposium/index.md
+        - file: symposium/agenda.md
         - file: symposium/curriculum01/index.md
           #hidden: true
-        # - file: symposium/curriculum01/lab01_presentation.ipynb
-        #   hidden: true
-        # - file: symposium/curriculum02/index.md
+        - file: symposium/curriculum01/lab01-presentation.ipynb
+          #hidden: true
 
     - file: team.md
 
