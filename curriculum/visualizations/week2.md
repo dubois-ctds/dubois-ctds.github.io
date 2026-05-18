@@ -2,7 +2,7 @@
 title: "Week 2"
 ---
 ## Lecture 3: Summary Statistics and Boxplots
-* [Google Slides](presentation/d/1s7o-CdthvVp6wiWKLPLoC0YnB6jRWFxWR1VDKNM0ii0/edit?usp=sharing)
+* [Google Slides]([presentation/d/1s7o-CdthvVp6wiWKLPLoC0YnB6jRWFxWR1VDKNM0ii0/edit?usp=sharing](https://docs.google.com/presentation/d/1s7o-CdthvVp6wiWKLPLoC0YnB6jRWFxWR1VDKNM0ii0/edit?usp=sharing ))
 * [Jupyter Notebook](curriculum/visualizations/lecture-notebook/lec03/lec03/)
 * This lecture presents relevant statistics that are commonly presented alongside visualizations such as percentiles, range, interquartile range, and measures of spread and center. Concepts like skewness and symmetry in distributions are discussed as well.
 
