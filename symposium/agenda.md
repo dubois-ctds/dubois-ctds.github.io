@@ -4,15 +4,15 @@ title: "Agenda and Activities"
 
 ## Symposium Activities
 
-We have one slidedeck for non-curriculum Symposium activities. Link is forthcoming.
+We have one slidedeck for non-curriculum Symposium activities.
 
-<!-- ::::{figure}
+::::{figure}
 :::{iframe} https://docs.google.com/presentation/d/e/2PACX-1vTRhKnR5CGG7cixd0gIjUaGDEOWaXojfeG6wspCXZWx6Kxo7btcUXz2dBM4lSOZuiIKRQnV1qx6Y1eK/pubembed
 :width: 100%
 :title: "DUBOIS Symposium Slides"
 :::
 Symposium activities. The above presentation is also available as [Google Slides](https://docs.google.com/presentation/d/1tnrCFishInGFIwEi44202ocHqM2VTY_8JDqj42aUkmo/edit?usp=sharing).
-:::: -->
+::::
 
 Resources for each curriculum workshop can be accessed in the sidebar as they are available.
 
