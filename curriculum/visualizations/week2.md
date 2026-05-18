@@ -2,13 +2,13 @@
 title: "Week 2"
 ---
 ## Lecture 3: Summary Statistics and Boxplots
-* [Google Slides](https://docs.google.com/presentation/d/1s7o-CdthvVp6wiWKLPLoC0YnB6jRWFxWR1VDKNM0ii0/edit?usp=sharing)
+* [Google Slides](presentation/d/1s7o-CdthvVp6wiWKLPLoC0YnB6jRWFxWR1VDKNM0ii0/edit?usp=sharing)
 * [Jupyter Notebook](curriculum/visualizations/lecture-notebook/lec03/lec03/)
 * This lecture presents relevant statistics that are commonly presented alongside visualizations such as percentiles, range, interquartile range, and measures of spread and center. Concepts like skewness and symmetry in distributions are discussed as well.
 
 ## Lecture 4: Filtering and Boolean Predicates
 * [Google Slides](https://docs.google.com/presentation/d/1m9FdXg9L7WXrks0YWqlqtEHdce-Ns6TbqKPZGOMhrdM/edit?usp=sharing)
-* [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/visualizations/lecture-notebook/lec04/lec04/)
+* [Jupyter Notebook](curriculum/visualizations/lecture-notebook/lec04/lec04/)
 * In this lecture, students are tasked with quantifying the center and spread of data using measures like mean, median, and interquartile range. They also learn to manipulate and filter tables using boolean predicates, comparison operators, and various string methods.
 
 ## Reading 1: Schwabish and Feng, "Applying Racial Equity Awareness in Data Visualization." The Urban Institute. 2020. 
