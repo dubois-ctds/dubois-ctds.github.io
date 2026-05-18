@@ -36,6 +36,8 @@ Then, follow the login instructions below. If you have any issues, try using Saf
 
 1. Username: \<your-email-address\>
 2. Password: correcthorsebatterystaple
+
+(password adapted from this [xkcd comic](https://xkcd.com/936/))
 :::
 
 ### Presentation Slides

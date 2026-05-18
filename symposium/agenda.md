@@ -27,7 +27,7 @@ Resources for each curriculum workshop can be accessed in the sidebar as they ar
 | 1:30 - 1:45 | Lisa Yan | Presentation | Overview of the DUBOIS Partnership and the CTD&S Curriculum |
 | 1:45 - 2:45 | Suzanne Sindi | Discussion | What does Data Science Education look like on your Campus? |
 | 2:45 - 3:00 | Break | – | – |
-| 3:00 - 4:00 | Johnnie Williams, <br/> Indar Freitas | Curriculum 1 | [Kaggle: Introduction to Open-Source Datasets](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Fcurriculum01%2Flab01_presentation.ipynb) |
+| 3:00 - 4:00 | Johnnie Williams, <br/> Indar Freitas | Curriculum 1 | [Kaggle: Introduction to Open-Source Datasets](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Fcurriculum01%2Flab01-presentation.ipynb) |
 | 4:00 - 5:00 | Dinner | – | – |
 
 ### Day 2: Tuesday, May 19th, 2026
