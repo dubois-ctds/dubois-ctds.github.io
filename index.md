@@ -6,6 +6,7 @@ short_title: "Home"
 ![DUBOIS logo](assets/images/logo.png)
 
 Collaborative development of a new introductory, interdisciplinary course for computing, data science, and society.
+
 * The introductory Data Science curriculum is at the intersection of computing, statistics, and the social and behavioral sciences. The course consists of scaffolded modules designed to promote effective engagement with modern socio-technical systems.
 * This partnership developes course modules in teams composed of members from institution with the intention of sharing interdisciplinary knowledge, experience with a variety of students, and range of classroom practices.
 
@@ -33,6 +34,7 @@ This project plans for four course modules, built as 2-3 week units and designed
 Full curriculum to come soon!
 
 ## Funding
+
 This project is funded by the following sources:
 * This material is based upon work supported by the U.S. National Science Foundation under award Nos. [2245877](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245877), [2245878](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245878), [2245879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245879). NSF [IUSE CUE](https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing): "Collaborative Research: Developing inclusive, interdisciplinary undergraduate data science curricula in computing and social science."
 * **California Learning Lab**. Collaborative Design of Interdisciplinary, Inclusive, Introductory Data Science Course Modules \[[link](https://calearninglab.org/project/collaborative-design-of-interdisciplinary-inclusive-introductory-data-science-course-modules/)\]
