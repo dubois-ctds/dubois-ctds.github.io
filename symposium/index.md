@@ -1,11 +1,18 @@
 ---
 title: "Symposium on Undergraduate Data Science Education"
-short_title: Symposium (May 2026)
+short_title: "Overview and Getting Here"
 ---
 
 You are cordially invited to our first Symposium on Undergraduate Data Science Education on May 18-20, 2026 at the Auburn University Dixon Conference Center in Auburn, Alabama.
 
-[![Symposium Flyer](../assets/images/flyer.png)](https://tinyurl.com/DataSci-Symposium)
+:::{image} ../assets/images/flyer.png
+:label: symposium2026-flyer
+:width: 100%
+:alt: "Flyer of the Symposium on Undergraduate Data Science Education. Experience a new cross-cutting introductory undergraduate curriculum in Data Science. Participants will have the opportunity to: (1) Engage hands-on with a computing focused course that investigates problems in the context of Behavioral and Social Science applications; (2) Brainstorm, adapt, and integrate new Data Science curriculum modules. Learn what teaching Data Science means! (3) Share innovations in Data Science Education happening at their home campus. May 18 - 20, 2026. Graduate Hilton at Auburn, Auburn, AL."
+
+Register for the symposium at [https://tinyurl.com/DataSci-Symposium]
+(https://tinyurl.com/DataSci-Symposium).
+:::
 
 The purpose of this symposium is to convene faculty and students with interest in promoting Data Science Education to experience the DUBOIS Data Science and explore the adaptability of this curriculum on their campuses. We are planning several hands-on sessions at the Symposium where participants will directly engage with the curriculum.
 
@@ -31,15 +38,6 @@ Please complete the participation interest form: [https://tinyurl.com/DataSci-Sy
 **PRIORITY DEADLINE**: Feb 15, 2026 (to be considered for travel support)
 -->
 
-## Agenda
-
-The agenda below is also available as a [Google Doc](https://docs.google.com/document/d/1yLGyqdGdMdlqgKwMwUp9pFJKw0oLoy8iWQuHw4lx2pY/edit?usp=sharing).
-
-:::{iframe} https://docs.google.com/document/d/e/2PACX-1vTVGFwuOo-k5m9mx1VWgW0DhFP5GlSN8wZ6R1ObUVXbl-0qz5B95o6_j4JLoH6Q9WsY6h9yClPASBI6/pub?embedded=true
-:width: 100%
-:title: "DUBOIS Symposium Flyer
-:::
-
 ## Venue Information
 
 **Location**: Graduate Hilton by Auburn; 202 W Magnolia Ave, Auburn, AL 36830 <!--([update 3/3: instead of the earlier Auburn University Conference Centre])-->
@@ -48,19 +46,19 @@ The agenda below is also available as a [Google Doc](https://docs.google.com/doc
 
 **Travel Funds**: Funds are available to support participant travel, based on need (opportunities are limited). More information below.
 
-
 ## Participant Details
 
 We highly encourage participation by small interdisciplinary teams of 2-3 Faculty Members from each institution (e.g. Computer Scientists, Engineers, Mathematicians, Social and Behavioral Scientists) who have an interest in starting a Data Science curriculum on their campuses or enhancing an existing one. *We strongly encourage teams of faculty or faculty and students from the same institution to attend the Symposium.* Single Faculty participation is welcomed as well. Faculty may also bring interested students with them!
 
-### Getting to the Venue
+### Getting to Auburn, AL
 
-**Getting to Auburn, AL**: For those who will be travelling by air, the closest recommended airport with the most flight options is Atlanta's Hartfield Jackson International airport. Auburn is about 100 miles from the airport via I-85. There is a convenient shuttle service ([Groome Transportation](https://groometransportation.com/auburn/?&sd_client_id=3592e67a-8239-4172-b354-685ad6e9a711)) that connects the airport with the Groome central office in Auburn, in addition to many car rental options. As you plan your travels, please note that ATL is on EASTERN time zone while Auburn is on CENTRAL time zone.
+For those who will be travelling by air, the closest recommended airport with the most flight options is Atlanta's Hartfield Jackson International airport. Auburn is about 100 miles from the airport via I-85. There is a convenient shuttle service ([Groome Transportation](https://groometransportation.com/auburn/?&sd_client_id=3592e67a-8239-4172-b354-685ad6e9a711)) that connects the airport with the Groome central office in Auburn, in addition to many car rental options. As you plan your travels, please note that ATL is on EASTERN time zone while Auburn is on CENTRAL time zone.
 
-**Parking**: Parking: Parking is available in the Wright Street Parking Deck, located across from the hotel at 140 Wright St, Auburn, AL 36830. The parking fee is $1.00 / hr. Please retain the receipt as part of your reimbursement.
+### Parking
+
+Parking is available in the Wright Street Parking Deck, located across from the hotel at 140 Wright St, Auburn, AL 36830. The parking fee is $1.00 / hr. Please retain the receipt as part of your reimbursement.
 
 More information on the [Auburn City website](https://www.auburnal.gov/office-of-the-city-manager/downtown-parking/)
-
 
 ### Lodging
 
