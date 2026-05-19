@@ -19,7 +19,7 @@ project:
         - file: symposium/curriculum01/lab01-presentation.ipynb
           # hidden: true
         - file: symposium/curriculum02/index.md
-        - file: symposium/curriculum02/lab02-bickel-otter.ipynb
+        - file: symposium/curriculum02/lab02-bickel-blank.ipynb
           #hidden: true
 
     - file: team.md
