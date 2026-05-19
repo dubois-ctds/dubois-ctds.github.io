@@ -28,3 +28,8 @@ dist/
 # Python virtual environments
 .venv/
 symposium/curriculum03/requirements.txt
+
+# API keys (never commit)
+symposium/curriculum03/api_key.py
+
+__pycache__/
