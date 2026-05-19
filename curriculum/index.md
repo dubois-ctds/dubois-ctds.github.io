@@ -6,6 +6,11 @@ This introductory data science course curriculum for undergraduates is split int
 
 Where applicable, materials that are classroom tested will be noted with an asterisk (\*).
 
+## Course Syllabi
+
+* Laney College: [CIS 116 Syllabus](https://drive.google.com/file/d/1U1mfgJw3QEzCDW2So9AjhPmp9eynVAqm/view?usp=sharing)
+* UC Berkeley: [Data 6 Syllabus](https://data6.org/fa25/)
+
 ## License
 
 Unless otherwise mentioned, the curricular contents are licensed for free consumption under the following license:
