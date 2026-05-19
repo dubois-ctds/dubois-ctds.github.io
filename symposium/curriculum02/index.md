@@ -29,7 +29,7 @@ This session uses the [1973 UC Berkeley graduate admissions dataset](https://dis
 
 :::{hint} Activity Links
 
-[Jupyter Notebook](symposium/curriculum02/lab02-bickel-otter) | [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Flab02-bickel-otter.ipynb)
+[Jupyter Notebook](symposium/curriculum02/lab02-bickel-otter) | [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Flab02-bickel-blank.ipynb)
 
 The **Jupyter Notebook** above is a view-only version of the lab. For the full experience, you will need to use the **Interactive Jupyter Notebook**. Follow instructions below.
 
@@ -55,7 +55,7 @@ The above presentation is also available as [Google Slides](https://docs.google.
   * [Curriculum 2 Drive](https://drive.google.com/drive/folders/18zRh5iEkZPNka1_duFtWAPZleA1_Gv5X?usp=sharing)
 3. [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/)
   * [Jupyter Notebook](symposium/curriculum02/lab02-bickel-otter)
-  * [Jupyter Notebook: GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/tree/main/symposium/curriculum02/lab02-bickel-otter.ipynb)
-  * [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Flab02_bickel-otter.ipynb)
+  * [Jupyter Notebook: GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/tree/main/symposium/curriculum02/lab02-bickel-blank.ipynb)
+  * [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Flab02_bickel-blank.ipynb)
 
 :::

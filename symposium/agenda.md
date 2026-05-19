@@ -35,7 +35,7 @@ Resources for each curriculum workshop can be accessed in the sidebar as they ar
 | Time | Chair | Type | Topic |
 |:-- | :-- | :-- | :-- |
 | 8:30 - 9:30 | Yasmeen Rawajfih | Breakfast | Recap of Yesterday |
-| 9:30 - 10:45 | Lisa Yan | Curriculum 2 | Visualizations and Simpson's Paradox |
+| 9:30 - 10:45 | Lisa Yan | Curriculum 2 | [Visualizations and Simpson's Paradox](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Flab02_bickel-blank.ipynb) |
 | 10:45 - 11:00 | – | Break | – |
 | 11:00 - 12:00 | Roummel Garcia | Panel | CTD&S Instructors: What is it like to teach the course? |
 | 12:00 - 1:30 | Johnnie Williams | Lunch & Keynote | Dr. Kamau Bobb, Senior Director, Constellations Center for Education in Computing, Georgia Tech |
