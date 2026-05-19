@@ -12,18 +12,15 @@ project:
     - file: index.md
     - title: "Symposium (May 2026)"
       children:
-        - title: Overview and Getting Here
-          file: symposium/index.md
-        - title: Agenda
-          file: symposium/agenda.md
+        - file: symposium/index.md
+        - file: symposium/agenda.md
         - file: symposium/curriculum01/index.md
           # hidden: true
         - file: symposium/curriculum01/lab01-presentation.ipynb
           # hidden: true
         - file: symposium/curriculum02/index.md
-        - file: symposium/curriculum02/lab02-bickel-otter.ipynb
-        - file: symposium/curriculum03/index.md
-        - file: symposium/curriculum03/lab03-ai-blank.ipynb
+        - file: symposium/curriculum02/lab02-bickel-blank.ipynb
+          #hidden: true
 
     - file: team.md
 

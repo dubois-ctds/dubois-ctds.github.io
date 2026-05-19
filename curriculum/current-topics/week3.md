@@ -12,10 +12,9 @@ title: "Week 3"
   * [Assignment PDF](https://drive.google.com/file/d/1qqRTkcvpHuA3n7nzs8o8DO_KRWtCl-GV/view?usp=sharing)
 
 ## Discussion 1: Impact of LLMs
+
   * [Google Slides](https://docs.google.com/presentation/d/1lBIvIsYKfrQtRqCbvA8GP14ofgjoHsOHJbIJ4CVynjY/edit?usp=sharing)
 
 ## Lab 1: APIs, Prompt Engineering
-  * [Jupyter Notebook]()
 
-
-
+  * TBD

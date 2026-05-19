@@ -20,3 +20,11 @@ vendor/
 
 # MyST build outputs
 _build
+
+# Otter
+.OTTER_LOG
+dist/
+
+# Python virtual environments
+.venv/
+symposium/curriculum03/requirements.txt

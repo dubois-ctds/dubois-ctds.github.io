@@ -21,7 +21,7 @@ Participants will learn how to:
 
 :::{hint} Activity Links
 
-[Jupyter Notebook](symposium/curriculum01/lab01-presentation) | [Google Docs](https://docs.google.com/document/d/1h_rNWTCZHOOAe5TUfh3g95l4PmoFOhn2pxeAd5eT_AQ/edit?usp=sharing) | [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Flab01_presentation.ipynb)
+[Jupyter Notebook](symposium/curriculum01/lab01-presentation) | [Google Docs](https://docs.google.com/document/d/1h_rNWTCZHOOAe5TUfh3g95l4PmoFOhn2pxeAd5eT_AQ/edit?usp=sharing) | [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Fcurriculum01%2Flab01-presentation.ipynb)
 
 This activity can be fully completed using the **Jupyter Notebook** or **Google Docs** links above.
 
@@ -36,6 +36,8 @@ Then, follow the login instructions below. If you have any issues, try using Saf
 
 1. Username: \<your-email-address\>
 2. Password: correcthorsebatterystaple
+
+(password adapted from this [xkcd comic](https://xkcd.com/936/))
 :::
 
 ### Presentation Slides
@@ -45,17 +47,17 @@ Then, follow the login instructions below. If you have any issues, try using Saf
 :width: 100%
 :title: "DUBOIS Curriculum 1 Workshop"
 :::
-The above presentation is also available as [Google Slides](https://docs.google.com/presentation/d/1RPaKQYYHQajkkKg7jvdXC8j4q7Q8Il1xMiQByOnrlWU/edit?usp=sharing).
+The above presentation is also available as [Google Slides](https://docs.google.com/presentation/d/15fWACHvgmjtJvP_SxlX0D0cEG2cXuZX_yoycWex_Ze8/edit?usp=sharing).
 ::::
 
 ## Full Resources
 
 1. [Google Drive](https://drive.google.com/drive/folders/1Ih0BVthfVpugZFwJPNSyFnjTA0TYQtzs?usp=drive_link) (view all [Workshops and Symposiums](https://drive.google.com/drive/folders/1O_Dl9uybTp26hDX7XdGCf192bzDcJAZI?usp=drive_link))
-  * [Curriculum 1 Slides](https://docs.google.com/presentation/d/1RPaKQYYHQajkkKg7jvdXC8j4q7Q8Il1xMiQByOnrlWU/edit?usp=sharing)
+  * [Curriculum 1 Slides](https://docs.google.com/presentation/d/15fWACHvgmjtJvP_SxlX0D0cEG2cXuZX_yoycWex_Ze8/edit?usp=sharing)
   * [Curriculum 1 Drive](https://drive.google.com/drive/folders/18zRh5iEkZPNka1_duFtWAPZleA1_Gv5X?usp=sharing)
 3. [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/tree/main/symposium)
   * [Jupyter Notebook](symposium/curriculum01/lab01-presentation)
-  * [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Fcurriculum1.md)
+  * [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Fcurriculum01%2Flab01-presentation.ipynb)
 
 
 :::

@@ -8,6 +8,6 @@ title: "Week 1"
   * [Google Slides](https://docs.google.com/presentation/d/1zfrCWiWS_7_YzSEU2EMbCdn2Y0EtYtE2F6L3cjhP4I8/edit?usp=sharing)
 
 ## Lab 1: Dictionaries
-  * [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/current-topics/lab/lab01/lab01/)
+  * [Jupyter Notebook](curriculum/current-topics/lab/lab01/lab01/)
 
 
