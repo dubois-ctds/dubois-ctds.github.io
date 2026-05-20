@@ -21,6 +21,8 @@ project:
         - file: symposium/curriculum02/index.md
         - file: symposium/curriculum02/lab02-bickel-blank.ipynb
           #hidden: true
+        - file: symposium/curriculum03/index.md
+        - file: symposium/curriculum03/lab03-ai-blank.ipynb
 
     - file: team.md
 
