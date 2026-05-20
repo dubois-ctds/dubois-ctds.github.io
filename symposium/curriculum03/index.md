@@ -6,6 +6,14 @@ trailing_slash: false
 
 This workshop introduces how to use Generative AI (GenAI) for coding and prompting in a Jupyter Notebook.
 
+:::{note} Gemini API Keys
+
+* Participant API keys sent via email will expire on Thursday May 21, 2026.
+* To create a new API Key yourself, visit [Gemini AI Studio](https://aistudio.google.com/). It requires a Google account. There is a free tier with a low daily limit, and response times will be slower.
+* View [Gemini API Pricing](https://ai.google.dev/gemini-api/docs/pricing).
+
+:::
+
 ## Workshop Goals
 
 Participants will learn how to:
