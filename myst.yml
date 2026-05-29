@@ -13,6 +13,21 @@ project:
 
     - file: team.md
 
+    - title: "2026 DUBOIS Symposium"
+      children:
+        - file: symposium/index.md
+        - file: symposium/agenda.md
+        - file: symposium/posters.md
+        - file: symposium/curriculum01/index.md
+          # hidden: true
+        - file: symposium/curriculum01/lab01-presentation.ipynb
+          # hidden: true
+        - file: symposium/curriculum02/index.md
+        - file: symposium/curriculum02/lab02-bickel-blank.ipynb
+          #hidden: true
+        - file: symposium/curriculum03/index.md
+        - file: symposium/curriculum03/lab03-ai-blank.ipynb
+
     - file: curriculum/index.md
 
     - title: "Fundamentals"
@@ -156,19 +171,7 @@ project:
                 file: curriculum/current-topics/project/project_final/project_final_partA.ipynb
               - title: Final Project (Part B)
                 file: curriculum/current-topics/project/project_final/project_final_partB.ipynb
-    - title: "Symposium (May 2026)"
-      children:
-        - file: symposium/index.md
-        - file: symposium/agenda.md
-        - file: symposium/curriculum01/index.md
-          # hidden: true
-        - file: symposium/curriculum01/lab01-presentation.ipynb
-          # hidden: true
-        - file: symposium/curriculum02/index.md
-        - file: symposium/curriculum02/lab02-bickel-blank.ipynb
-          #hidden: true
-        - file: symposium/curriculum03/index.md
-        - file: symposium/curriculum03/lab03-ai-blank.ipynb
+
   
     
 site:
