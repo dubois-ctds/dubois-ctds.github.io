@@ -18,6 +18,8 @@ Resources for each curriculum workshop can be accessed in the sidebar as they ar
 
 ## Agenda
 
+The agenda is also available as a Google Doc at the bottom of this page.
+
 ### Day 1: Monday, May 18th, 2026
 
 | Time | Chair | Type | Topic |
@@ -39,7 +41,7 @@ Resources for each curriculum workshop can be accessed in the sidebar as they ar
 | 10:45 - 11:00 | – | Break | – |
 | 11:00 - 12:00 | Roummel Garcia | Panel | CTD&S Instructors: What is it like to teach the course? |
 | 12:00 - 1:30 | Johnnie Williams | Lunch & Keynote | Dr. Kamau Bobb, Senior Director, Constellations Center for Education in Computing, Georgia Tech |
-| 1:30 - 2:30 | Yasmeen Rawajfih | Poster Session | – |
+| 1:30 - 2:30 | Yasmeen Rawajfih | – | [Poster Session](posters/) |
 | 2:30 - 2:45 | – | Break | – |
 | 2:45 - 3:45 | Yasmeen Rawajfih | Discussion | Classroom Infrastructure for Data Science: Jupyter Notebooks |
 | 3:45 - 4:00 | – | Break | – |
