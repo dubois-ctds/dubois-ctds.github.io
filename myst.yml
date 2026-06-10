@@ -10,7 +10,7 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: index.md
-
+    - file: curriculum/index.md
     - file: team.md
 
     - title: "2026 DUBOIS Symposium"
@@ -28,13 +28,12 @@ project:
         - file: symposium/curriculum03/index.md
         - file: symposium/curriculum03/lab03-ai-blank.ipynb
 
-    - file: curriculum/index.md
-
     - title: "Fundamentals"
       children:
         - file: curriculum/fundamentals/index.md
         - file: curriculum/fundamentals/week1.md
         - file: curriculum/fundamentals/week2.md
+
     - title: "Fundamentals (Fall 2025)"
       children:
         - file: curriculum/fundamentals-fa25/index.md
@@ -66,12 +65,14 @@ project:
               file: curriculum/fundamentals-fa25/homework/hw01/hw01.ipynb
             - title: Homework 02
               file: curriculum/fundamentals-fa25/homework/hw02/hw02.ipynb
+
     - title: "Data and Privacy"
       children: 
         - file: curriculum/data-privacy/index.md
         - file: curriculum/data-privacy/week1.md
         - file: curriculum/data-privacy/week2.md
         - file: curriculum/data-privacy/week3.md
+
     - title: "Visualizations"
       children: 
         - file: curriculum/visualizations/index.md
@@ -107,6 +108,7 @@ project:
           children:
           - title: Project 01
             file: curriculum/visualizations/project/project1/project1.ipynb 
+
     - title: "Functions"
       children: 
         - file: curriculum/functions/index.md
@@ -172,8 +174,50 @@ project:
               - title: Final Project (Part B)
                 file: curriculum/current-topics/project/project_final/project_final_partB.ipynb
 
+    - title: "Polars"
+      children: 
+        - title: "Fundamentals (Fall 2025)"
+          children:
+          - file: curriculum/polars-fundamentals-fa25/index.md
+          - file: curriculum/polars-fundamentals-fa25/week1.md
+          - file: curriculum/polars-fundamentals-fa25/week2.md
+          - file: curriculum/polars-fundamentals-fa25/week3.md
+          - file: curriculum/polars-fundamentals-fa25/week4.md
+          - title: Lecture notebooks
+            children:
+            - title: Lecture 01
+              file: curriculum/polars-fundamentals-fa25/lecture_notebook/lec01/lec01.ipynb
+            - title: Lecture 02
+              file: curriculum/polars-fundamentals-fa25/lecture_notebook/lec02/lec02.ipynb
+            - title: Lecture 03
+              file: curriculum/polars-fundamentals-fa25/lecture_notebook/lec03/lec03.ipynb
+            - title: Lecture 04
+              file: curriculum/polars-fundamentals-fa25/lecture_notebook/lec04/lec04.ipynb
+          - title: Labs
+            children:
+            - title: Lab 01
+              file: curriculum/polars-fundamentals-fa25/lab/lab01/lab01.ipynb
+            - title: Lab 02
+              file: curriculum/polars-fundamentals-fa25/lab/lab02/lab02.ipynb
+            - title: Lab 03
+              file: curriculum/polars-fundamentals-fa25/lab/lab03/lab03.ipynb
+          - title: Homeworks
+            children:
+            - title: Homework 01
+              file: curriculum/polars-fundamentals-fa25/homework/hw01/hw01.ipynb
+            - title: Homework 02
+              file: curriculum/polars-fundamentals-fa25/homework/hw02/hw02.ipynb
+          - title: Projects
+            children:
+            - title: Project 01
+              file: curriculum/polars-fundamentals-fa25/project/project1/project1.ipynb 
+        
+
   
     
+
+
+
 site:
   template: book-theme
   options:
