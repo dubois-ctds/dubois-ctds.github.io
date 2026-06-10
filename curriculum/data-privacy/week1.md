@@ -41,7 +41,7 @@ title: "Week 1"
     - Understand file paths and error handling.
 
 ## Project/Homework Part 1: Data File Manipulation and Basic Table Operations
-*  [PDF](https://drive.google.com/file/d/13SqNDPROKbHDOFNmZQaSQRS2IQ1LaVVj/view?usp=sharing)
+*  [Assignment PDF](https://drive.google.com/file/d/13SqNDPROKbHDOFNmZQaSQRS2IQ1LaVVj/view?usp=sharing)
 *  [Google Doc](https://docs.google.com/document/d/1GIvr0qIgoHRQAlOPMGth6buaU8u2pMLZI9Mv_Iz8k0o/edit?usp=sharing)
 
   *  Learning Outcomes Covered:
