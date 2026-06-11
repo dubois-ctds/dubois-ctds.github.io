@@ -1,5 +1,5 @@
 ---
-title: "Week 3"
+title: "Week 1"
 ---
 
 ## Lecture 3: Computational Social Science

@@ -148,9 +148,6 @@ project:
         - file: curriculum/current-topics/index.md
         - file: curriculum/current-topics/week1.md
         - file: curriculum/current-topics/week2.md
-        - file: curriculum/current-topics/week3.md
-        - file: curriculum/current-topics/week4.md
-        - file: curriculum/current-topics/week5.md
         - title: Lecture notebooks
           children:
           - title: Lecture 01
@@ -177,6 +174,9 @@ project:
     - title: "Current Topics - GenAI and Qualitative Coding"
       children: 
         - file: curriculum/current-topics-2/index.md
+        - file: curriculum/current-topics-2/week1.md
+        - file: curriculum/current-topics-2/week2.md
+        - file: curriculum/current-topics-2/week3.md
 
     - title: "Polars"
       children: 
