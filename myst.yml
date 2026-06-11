@@ -109,7 +109,7 @@ project:
           - title: Project 01
             file: curriculum/visualizations/project/project1/project1.ipynb 
 
-    - title: "Functions"
+    - title: "Functions and Algorithms"
       children: 
         - file: curriculum/functions/index.md
         - file: curriculum/functions/week1.md

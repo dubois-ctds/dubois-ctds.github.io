@@ -1,5 +1,5 @@
 ---
-title: "Functions"
+title: "Functions and Algorithms"
 short_title: "Overview"
 ---
 
