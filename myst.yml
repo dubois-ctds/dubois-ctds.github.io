@@ -143,7 +143,7 @@ project:
           - title: Project 02
             file: curriculum/functions/project/project2/project2.ipynb 
 
-    - title: "Current Topics"
+    - title: "Current Topics - Web Scraping and HTML"
       children: 
         - file: curriculum/current-topics/index.md
         - file: curriculum/current-topics/week1.md
@@ -173,6 +173,10 @@ project:
                 file: curriculum/current-topics/project/project_final/project_final_partA.ipynb
               - title: Final Project (Part B)
                 file: curriculum/current-topics/project/project_final/project_final_partB.ipynb
+    
+    - title: "Current Topics - GenAI and Qualitative Coding"
+      children: 
+        - file: curriculum/current-topics-2/index.md
 
     - title: "Polars"
       children: 
