@@ -49,7 +49,7 @@ title: "Week 2"
     * Perform data aggregation techniques using tables.
 
 ## Project/Homework Part 2: Advanced Table Operations and Visualization
-*  [PDF](https://drive.google.com/file/d/13SqNDPROKbHDOFNmZQaSQRS2IQ1LaVVj/view?usp=sharing)
+*  [Assignment PDF](https://drive.google.com/file/d/13SqNDPROKbHDOFNmZQaSQRS2IQ1LaVVj/view?usp=sharing)
 *  [Google Doc](https://docs.google.com/document/d/1GIvr0qIgoHRQAlOPMGth6buaU8u2pMLZI9Mv_Iz8k0o/edit?tab=t.0#heading=h.glb7v4cgf4uq)
 
 *  Learning Outcomes:
