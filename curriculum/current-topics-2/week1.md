@@ -2,7 +2,7 @@
 title: "Week 1"
 ---
 
-## Lecture 3: Computational Social Science
+## Lecture 1: Computational Social Science
   * [Google Slides](https://docs.google.com/presentation/d/1SC_V7yudHYC0EHgoV_1D9CcfXohB9KETDa2JupH1QeI/edit?usp=sharing)  
   * In this lecture students are introduced to computational social science as a field that uses data and computation to study human behavior at scale. Students explore qualitative coding and how annotation is used to translate text into structured, analyzable data.
 

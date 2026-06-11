@@ -164,12 +164,6 @@ project:
           children:
           - title: Project 2
             file: curriculum/current-topics/project/project2/project2.ipynb
-          - title: Final Project
-            children: 
-              - title: Final Project (Part A)
-                file: curriculum/current-topics/project/project_final/project_final_partA.ipynb
-              - title: Final Project (Part B)
-                file: curriculum/current-topics/project/project_final/project_final_partB.ipynb
     
     - title: "Current Topics - GenAI and Qualitative Coding"
       children: 
@@ -177,6 +171,14 @@ project:
         - file: curriculum/current-topics-2/week1.md
         - file: curriculum/current-topics-2/week2.md
         - file: curriculum/current-topics-2/week3.md
+        - title: Projects
+          children:
+          - title: Final Project
+            children: 
+              - title: Final Project (Part A)
+                file: curriculum/current-topics-2/project/project_final/project_final_partA.ipynb
+              - title: Final Project (Part B)
+                file: curriculum/current-topics-2/project/project_final/project_final_partB.ipynb
 
     - title: "Polars"
       children: 
