@@ -138,11 +138,7 @@ project:
             file: curriculum/functions/homework/hw01/hw01.ipynb
           - title: Homework 02
             file: curriculum/functions/homework/hw02/hw02.ipynb
-        - title: Projects
-          children:
-          - title: Project 02
-            file: curriculum/functions/project/project2/project2.ipynb 
-
+      
     - title: "Current Topics - Web Scraping and HTML"
       children: 
         - file: curriculum/current-topics/index.md

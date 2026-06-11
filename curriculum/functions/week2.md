@@ -10,6 +10,11 @@ title: "Week 2"
   * [Google Slides](https://docs.google.com/presentation/d/1TJDBW8y5s0-LKK7UBrOENGDgVikTC-kw8tzEL4x2ZlA/edit?usp=sharing)  
   * [Jupyter Notebook](curriculum/functions/lecture-notebook/lec04/lec04/)
 
+## Lecture 5: File Formats, Validity, Reliability and Dictionaries
+  * [Google Slides](https://docs.google.com/presentation/d/1mou_m2_vtouQeKiRAWlXIcygF9ZKrbUVc5P_fF_76XU/edit?usp=sharing)
+  * [Jupyter Notebook](curriculum/functions/lecture-notebook/lec05/lec05/)
+  * In this lecture students explore how algorithms produce measurements and examine the concepts of reliability and validity through the lens of BMI as a case study. Students are also introduced to Python dictionaries as a key-value data structure, learning how to create, access, and modify dictionary entries.
+
 ## Homework 2: Functions, Algorithms and Measurement
   * [Jupyter Notebook](curriculum/functions/homework/hw02/hw02/)
 
