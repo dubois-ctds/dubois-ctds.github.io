@@ -36,35 +36,35 @@ project:
 
     - title: "Fundamentals (Fall 2025)"
       children:
-        - file: curriculum/fundamentals-fa25/index.md
-        - file: curriculum/fundamentals-fa25/week1.md
-        - file: curriculum/fundamentals-fa25/week2.md
-        - file: curriculum/fundamentals-fa25/week3.md
-        - file: curriculum/fundamentals-fa25/week4.md
+        - file: curriculum/fundamentals-fa25/py-datascience/index.md
+        - file: curriculum/fundamentals-fa25/py-datascience/week1.md
+        - file: curriculum/fundamentals-fa25/py-datascience/week2.md
+        - file: curriculum/fundamentals-fa25/py-datascience/week3.md
+        - file: curriculum/fundamentals-fa25/py-datascience/week4.md
         - title: Lecture notebooks
           children:
             - title: Lecture 01
-              file: curriculum/fundamentals-fa25/lecture/lec01/lec01.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/lecture/lec01/lec01.ipynb
             - title: Lecture 02
-              file: curriculum/fundamentals-fa25/lecture/lec02/lec02.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/lecture/lec02/lec02.ipynb
             - title: Lecture 03
-              file: curriculum/fundamentals-fa25/lecture/lec03/lec03.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/lecture/lec03/lec03.ipynb
             - title: Lecture 04
-              file: curriculum/fundamentals-fa25/lecture/lec04/lec04.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/lecture/lec04/lec04.ipynb
         - title: Labs
           children:
             - title: Lab 01
-              file: curriculum/fundamentals-fa25/lab/lab01/lab01.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/lab/lab01/lab01.ipynb
             - title: Lab 02
-              file: curriculum/fundamentals-fa25/lab/lab02/lab02.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/lab/lab02/lab02.ipynb
             - title: Lab 03
-              file: curriculum/fundamentals-fa25/lab/lab03/lab03.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/lab/lab03/lab03.ipynb
         - title: Homeworks  
           children:
             - title: Homework 01
-              file: curriculum/fundamentals-fa25/homework/hw01/hw01.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/homework/hw01/hw01.ipynb
             - title: Homework 02
-              file: curriculum/fundamentals-fa25/homework/hw02/hw02.ipynb
+              file: curriculum/fundamentals-fa25/py-datascience/homework/hw02/hw02.ipynb
 
     - title: "Data and Privacy"
       children: 
@@ -75,142 +75,142 @@ project:
 
     - title: "Visualizations"
       children: 
-        - file: curriculum/visualizations/index.md
-        - file: curriculum/visualizations/week1.md
-        - file: curriculum/visualizations/week2.md
+        - file: curriculum/visualizations/py-datascience/index.md
+        - file: curriculum/visualizations/py-datascience/week1.md
+        - file: curriculum/visualizations/py-datascience/week2.md
         - title: Lecture notebooks
           children:
           - title: Lecture 01
-            file: curriculum/visualizations/lecture/lec01/lec01.ipynb
+            file: curriculum/visualizations/py-datascience/lecture/lec01/lec01.ipynb
           - title: Lecture 02
-            file: curriculum/visualizations/lecture/lec02/lec02.ipynb
+            file: curriculum/visualizations/py-datascience/lecture/lec02/lec02.ipynb
           - title: Lecture 03
-            file: curriculum/visualizations/lecture/lec03/lec03.ipynb
+            file: curriculum/visualizations/py-datascience/lecture/lec03/lec03.ipynb
           - title: Lecture 04
-            file: curriculum/visualizations/lecture/lec04/lec04.ipynb
+            file: curriculum/visualizations/py-datascience/lecture/lec04/lec04.ipynb
           - title: Lecture 05
-            file: curriculum/visualizations/lecture/lec05/lec05.ipynb
+            file: curriculum/visualizations/py-datascience/lecture/lec05/lec05.ipynb
           - title: Lecture 06
-            file: curriculum/visualizations/lecture/lec06/lec06.ipynb
+            file: curriculum/visualizations/py-datascience/lecture/lec06/lec06.ipynb
         - title: Labs
           children:
           - title: Lab 01
-            file: curriculum/visualizations/lab/lab01/lab01.ipynb
+            file: curriculum/visualizations/py-datascience/lab/lab01/lab01.ipynb
           - title: Lab 02
-            file: curriculum/visualizations/lab/lab02/lab02.ipynb
+            file: curriculum/visualizations/py-datascience/lab/lab02/lab02.ipynb
           - title: Lab 03
-            file: curriculum/visualizations/lab/lab03/lab03.ipynb
+            file: curriculum/visualizations/py-datascience/lab/lab03/lab03.ipynb
         - title: Homeworks
           children:
           - title: Homework 01
-            file: curriculum/visualizations/homework/hw01/hw01.ipynb
+            file: curriculum/visualizations/py-datascience/homework/hw01/hw01.ipynb
           - title: Project 01
-            file: curriculum/visualizations/homework/project1/project1.ipynb
+            file: curriculum/visualizations/py-datascience/homework/project1/project1.ipynb
 
     - title: "Functions and Algorithms"
       children: 
-        - file: curriculum/functions/index.md
-        - file: curriculum/functions/week1.md
-        - file: curriculum/functions/week2.md
+        - file: curriculum/functions/py-datascience/index.md
+        - file: curriculum/functions/py-datascience/week1.md
+        - file: curriculum/functions/py-datascience/week2.md
         - title: Lecture notebooks
           children:
           - title: Lecture 01
-            file: curriculum/functions/lecture/lec01/lec01.ipynb
+            file: curriculum/functions/py-datascience/lecture/lec01/lec01.ipynb
           - title: Lecture 02
-            file: curriculum/functions/lecture/lec02/lec02.ipynb
+            file: curriculum/functions/py-datascience/lecture/lec02/lec02.ipynb
           - title: Lecture 03
-            file: curriculum/functions/lecture/lec03/lec03.ipynb
+            file: curriculum/functions/py-datascience/lecture/lec03/lec03.ipynb
           - title: Lecture 04
-            file: curriculum/functions/lecture/lec04/lec04.ipynb
+            file: curriculum/functions/py-datascience/lecture/lec04/lec04.ipynb
         - title: Labs
           children:
           - title: Lab 01
-            file: curriculum/functions/lab/lab01/lab01.ipynb
+            file: curriculum/functions/py-datascience/lab/lab01/lab01.ipynb
           - title: Lab 02
-            file: curriculum/functions/lab/lab02/lab02.ipynb
+            file: curriculum/functions/py-datascience/lab/lab02/lab02.ipynb
           - title: Lab 03
-            file: curriculum/functions/lab/lab03/lab03.ipynb
+            file: curriculum/functions/py-datascience/lab/lab03/lab03.ipynb
         - title: Homeworks
           children:
           - title: Homework 01
-            file: curriculum/functions/homework/hw01/hw01.ipynb
+            file: curriculum/functions/py-datascience/homework/hw01/hw01.ipynb
           - title: Homework 02
-            file: curriculum/functions/homework/hw02/hw02.ipynb
+            file: curriculum/functions/py-datascience/homework/hw02/hw02.ipynb
       
     - title: "Current Topics - Web Scraping and HTML"
       children: 
-        - file: curriculum/current-topics/index.md
-        - file: curriculum/current-topics/week1.md
-        - file: curriculum/current-topics/week2.md
+        - file: curriculum/current-topics/py-datascience//index.md
+        - file: curriculum/current-topics/py-datascience//week1.md
+        - file: curriculum/current-topics/py-datascience//week2.md
         - title: Lecture notebooks
           children:
           - title: Lecture 01
-            file: curriculum/current-topics/lecture/lec01/lec01.ipynb
+            file: curriculum/current-topics/py-datascience//lecture/lec01/lec01.ipynb
           - title: Lecture 02
-            file: curriculum/current-topics/lecture/lec02/lec02.ipynb
+            file: curriculum/current-topics/py-datascience//lecture/lec02/lec02.ipynb
         - title: Labs
           children:
           - title: Lab 01
-            file: curriculum/current-topics/lab/lab01/lab01.ipynb
+            file: curriculum/current-topics/py-datascience//lab/lab01/lab01.ipynb
           - title: Lab 02
-            file: curriculum/current-topics/lab/lab02/lab02.ipynb
+            file: curriculum/current-topics/py-datascience//lab/lab02/lab02.ipynb
         - title: Homeworks
           children:
           - title: Project 2
-            file: curriculum/current-topics/homework/project2/project2.ipynb
+            file: curriculum/current-topics/py-datascience//homework/project2/project2.ipynb
     
     - title: "Current Topics - GenAI and Qualitative Coding"
       children: 
-        - file: curriculum/current-topics-2/index.md
-        - file: curriculum/current-topics-2/week1.md
-        - file: curriculum/current-topics-2/week2.md
-        - file: curriculum/current-topics-2/week3.md
+        - file: curriculum/current-topics-2/py-datascience/index.md
+        - file: curriculum/current-topics-2/py-datascience/week1.md
+        - file: curriculum/current-topics-2/py-datascience/week2.md
+        - file: curriculum/current-topics-2/py-datascience/week3.md
         - title: Homeworks
           children:
           - title: Final Project
             children: 
               - title: Final Project (Part A)
-                file: curriculum/current-topics-2/homework/project_final/project_final_partA.ipynb
+                file: curriculum/current-topics-2/py-datascience/homework/project_final/project_final_partA.ipynb
               - title: Final Project (Part B)
-                file: curriculum/current-topics-2/homework/project_final/project_final_partB.ipynb
+                file: curriculum/current-topics-2/py-datascience/homework/project_final/project_final_partB.ipynb
 
     - title: "Polars"
       children: 
         - title: "Fundamentals (Fall 2025)"
           children:
-          - file: curriculum/polars-fundamentals-fa25/index.md
-          - file: curriculum/polars-fundamentals-fa25/week1.md
-          - file: curriculum/polars-fundamentals-fa25/week2.md
-          - file: curriculum/polars-fundamentals-fa25/week3.md
-          - file: curriculum/polars-fundamentals-fa25/week4.md
+          - file: curriculum/polars-fundamentals-fa25/py-datascience/index.md
+          - file: curriculum/polars-fundamentals-fa25/py-datascience/week1.md
+          - file: curriculum/polars-fundamentals-fa25/py-datascience/week2.md
+          - file: curriculum/polars-fundamentals-fa25/py-datascience/week3.md
+          - file: curriculum/polars-fundamentals-fa25/py-datascience/week4.md
           - title: Lecture notebooks
             children:
             - title: Lecture 01
-              file: curriculum/polars-fundamentals-fa25/lecture/lec01/lec01.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/lecture/lec01/lec01.ipynb
             - title: Lecture 02
-              file: curriculum/polars-fundamentals-fa25/lecture/lec02/lec02.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/lecture/lec02/lec02.ipynb
             - title: Lecture 03
-              file: curriculum/polars-fundamentals-fa25/lecture/lec03/lec03.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/lecture/lec03/lec03.ipynb
             - title: Lecture 04
-              file: curriculum/polars-fundamentals-fa25/lecture/lec04/lec04.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/lecture/lec04/lec04.ipynb
           - title: Labs
             children:
             - title: Lab 01
-              file: curriculum/polars-fundamentals-fa25/lab/lab01/lab01.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/lab/lab01/lab01.ipynb
             - title: Lab 02
-              file: curriculum/polars-fundamentals-fa25/lab/lab02/lab02.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/lab/lab02/lab02.ipynb
             - title: Lab 03
-              file: curriculum/polars-fundamentals-fa25/lab/lab03/lab03.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/lab/lab03/lab03.ipynb
           - title: Homeworks
             children:
             - title: Homework 01
-              file: curriculum/polars-fundamentals-fa25/homework/hw01/hw01.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/homework/hw01/hw01.ipynb
             - title: Homework 02
-              file: curriculum/polars-fundamentals-fa25/homework/hw02/hw02.ipynb
+              file: curriculum/polars-fundamentals-fa25/py-datascience/homework/hw02/hw02.ipynb
           - title: Projects
             children:
             - title: Project 01
-              file: curriculum/polars-fundamentals-fa25/project/project1/project1.ipynb 
+              file: curriculum/polars-fundamentals-fa25/py-datascience/project/project1/project1.ipynb 
         
 
   
