@@ -104,10 +104,8 @@ project:
           children:
           - title: Homework 01
             file: curriculum/visualizations/homework/hw01/hw01.ipynb
-        - title: Projects
-          children:
           - title: Project 01
-            file: curriculum/visualizations/project/project1/project1.ipynb 
+            file: curriculum/visualizations/homework/project1/project1.ipynb
 
     - title: "Functions and Algorithms"
       children: 
