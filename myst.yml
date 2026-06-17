@@ -62,6 +62,58 @@ project:
                   file: curriculum/fundamentals-fa25/py-datascience/homework/hw01/hw01.ipynb
                 - title: Homework 02
                   file: curriculum/fundamentals-fa25/py-datascience/homework/hw02/hw02.ipynb
+        - title: "py-polars"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/fundamentals-fa25/py-polars/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/fundamentals-fa25/py-polars/lecture/lec02/lec02.ipynb
+                - title: Lecture 03
+                  file: curriculum/fundamentals-fa25/py-polars/lecture/lec03/lec03.ipynb
+                - title: Lecture 04
+                  file: curriculum/fundamentals-fa25/py-polars/lecture/lec04/lec04.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/fundamentals-fa25/py-polars/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/fundamentals-fa25/py-polars/lab/lab02/lab02.ipynb
+                - title: Lab 03
+                  file: curriculum/fundamentals-fa25/py-polars/lab/lab03/lab03.ipynb
+            - title: Homeworks  
+              children:
+                - title: Homework 01
+                  file: curriculum/fundamentals-fa25/py-polars/homework/hw01/hw01.ipynb
+                - title: Homework 02
+                  file: curriculum/fundamentals-fa25/py-polars/homework/hw02/hw02.ipynb
+        - title: "r-tidy"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/fundamentals-fa25/r-tidy/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/fundamentals-fa25/r-tidy/lecture/lec02/lec02.ipynb
+                - title: Lecture 03
+                  file: curriculum/fundamentals-fa25/r-tidy/lecture/lec03/lec03.ipynb
+                - title: Lecture 04
+                  file: curriculum/fundamentals-fa25/r-tidy/lecture/lec04/lec04.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/fundamentals-fa25/r-tidy/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/fundamentals-fa25/r-tidy/lab/lab02/lab02.ipynb
+                - title: Lab 03
+                  file: curriculum/fundamentals-fa25/r-tidy/lab/lab03/lab03.ipynb
+            - title: Homeworks  
+              children:
+                - title: Homework 01
+                  file: curriculum/fundamentals-fa25/r-tidy/homework/hw01/hw01.ipynb
+                - title: Homework 02
+                  file: curriculum/fundamentals-fa25/r-tidy/homework/hw02/hw02.ipynb
         - file: curriculum/fundamentals-fa25/index.md
         - file: curriculum/fundamentals-fa25/week1.md
         - file: curriculum/fundamentals-fa25/week2.md
@@ -107,6 +159,66 @@ project:
                   file: curriculum/visualizations/py-datascience/homework/hw01/hw01.ipynb
                 - title: Project 01
                   file: curriculum/visualizations/py-datascience/homework/project1/project1.ipynb
+        - title: "py-polars"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/visualizations/py-polars/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/visualizations/py-polars/lecture/lec02/lec02.ipynb
+                - title: Lecture 03
+                  file: curriculum/visualizations/py-polars/lecture/lec03/lec03.ipynb
+                - title: Lecture 04
+                  file: curriculum/visualizations/py-polars/lecture/lec04/lec04.ipynb
+                - title: Lecture 05
+                  file: curriculum/visualizations/py-polars/lecture/lec05/lec05.ipynb
+                - title: Lecture 06
+                  file: curriculum/visualizations/py-polars/lecture/lec06/lec06.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/visualizations/py-polars/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/visualizations/py-polars/lab/lab02/lab02.ipynb
+                - title: Lab 03
+                  file: curriculum/visualizations/py-polars/lab/lab03/lab03.ipynb
+            - title: Homeworks
+              children:
+                - title: Homework 01
+                  file: curriculum/visualizations/py-polars/homework/hw01/hw01.ipynb
+                - title: Project 01
+                  file: curriculum/visualizations/py-polars/homework/project1/project1.ipynb
+        - title: "r-tidy"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/visualizations/r-tidy/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/visualizations/r-tidy/lecture/lec02/lec02.ipynb
+                - title: Lecture 03
+                  file: curriculum/visualizations/r-tidy/lecture/lec03/lec03.ipynb
+                - title: Lecture 04
+                  file: curriculum/visualizations/r-tidy/lecture/lec04/lec04.ipynb
+                - title: Lecture 05
+                  file: curriculum/visualizations/r-tidy/lecture/lec05/lec05.ipynb
+                - title: Lecture 06
+                  file: curriculum/visualizations/r-tidy/lecture/lec06/lec06.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/visualizations/r-tidy/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/visualizations/r-tidy/lab/lab02/lab02.ipynb
+                - title: Lab 03
+                  file: curriculum/visualizations/r-tidy/lab/lab03/lab03.ipynb
+            - title: Homeworks
+              children:
+                - title: Homework 01
+                  file: curriculum/visualizations/r-tidy/homework/hw01/hw01.ipynb
+                - title: Project 01
+                  file: curriculum/visualizations/r-tidy/homework/project1/project1.ipynb
         - file: curriculum/visualizations/index.md
         - file: curriculum/visualizations/week1.md
         - file: curriculum/visualizations/week2.md
@@ -140,6 +252,60 @@ project:
                   file: curriculum/functions/py-datascience/homework/hw01/hw01.ipynb
                 - title: Homework 02
                   file: curriculum/functions/py-datascience/homework/hw02/hw02.ipynb
+        - title: "py-polars"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/functions/py-polars/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/functions/py-polars/lecture/lec02/lec02.ipynb
+                - title: Lecture 03
+                  file: curriculum/functions/py-polars/lecture/lec03/lec03.ipynb
+                - title: Lecture 04
+                  file: curriculum/functions/py-polars/lecture/lec04/lec04.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/functions/py-polars/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/functions/py-polars/lab/lab02/lab02.ipynb
+                - title: Lab 03
+                  file: curriculum/functions/py-polars/lab/lab03/lab03.ipynb
+            - title: Homeworks
+              children:
+                - title: Homework 01
+                  file: curriculum/functions/py-polars/homework/hw01/hw01.ipynb
+                - title: Homework 02
+                  file: curriculum/functions/py-polars/homework/hw02/hw02.ipynb
+        - title: "r-tidy"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/functions/r-tidy/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/functions/r-tidy/lecture/lec02/lec02.ipynb
+                - title: Lecture 03
+                  file: curriculum/functions/r-tidy/lecture/lec03/lec03.ipynb
+                - title: Lecture 04
+                  file: curriculum/functions/r-tidy/lecture/lec04/lec04.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/functions/r-tidy/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/functions/r-tidy/lab/lab02/lab02.ipynb
+                - title: Lab 03
+                  file: curriculum/functions/r-tidy/lab/lab03/lab03.ipynb
+            - title: Homeworks
+              children:
+                - title: Homework 01
+                  file: curriculum/functions/r-tidy/homework/hw01/hw01.ipynb
+                - title: Homework 02
+                  file: curriculum/functions/r-tidy/homework/hw02/hw02.ipynb
+        
+        
         - file: curriculum/functions/index.md
         - file: curriculum/functions/week1.md
         - file: curriculum/functions/week2.md
@@ -164,6 +330,42 @@ project:
               children:
                 - title: Project 2
                   file: curriculum/current-topics/py-datascience/homework/project2/project2.ipynb
+        - title: "py-polars"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/current-topics/py-polars/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/current-topics/py-polars/lecture/lec02/lec02.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/current-topics/py-polars/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/current-topics/py-polars/lab/lab02/lab02.ipynb
+            - title: Homeworks
+              children:
+                - title: Project 2
+                  file: curriculum/current-topics/py-polars/homework/project2/project2.ipynb
+        - title: "r-tidy"
+          children:
+            - title: Lecture notebooks
+              children:
+                - title: Lecture 01
+                  file: curriculum/current-topics/r-tidy/lecture/lec01/lec01.ipynb
+                - title: Lecture 02
+                  file: curriculum/current-topics/r-tidy/lecture/lec02/lec02.ipynb
+            - title: Labs
+              children:
+                - title: Lab 01
+                  file: curriculum/current-topics/r-tidy/lab/lab01/lab01.ipynb
+                - title: Lab 02
+                  file: curriculum/current-topics/r-tidy/lab/lab02/lab02.ipynb
+            - title: Homeworks
+              children:
+                - title: Project 2
+                  file: curriculum/current-topics/r-tidy/homework/project2/project2.ipynb
         - file: curriculum/current-topics/index.md
         - file: curriculum/current-topics/week1.md
         - file: curriculum/current-topics/week2.md
@@ -180,6 +382,27 @@ project:
                       file: curriculum/current-topics-2/py-datascience/homework/project_final/project_final_partA.ipynb
                     - title: Final Project (Part B)
                       file: curriculum/current-topics-2/py-datascience/homework/project_final/project_final_partB.ipynb
+        - title: "py-polars"
+          children:
+            - title: Homeworks
+              children:
+                - title: Final Project
+                  children: 
+                    - title: Final Project (Part A)
+                      file: curriculum/current-topics-2/py-polars/homework/project_final/project_final_partA.ipynb
+                    - title: Final Project (Part B)
+                      file: curriculum/current-topics-2/py-polars/homework/project_final/project_final_partB.ipynb
+        - title: "r-tidy"
+          children:
+            - title: Homeworks
+              children:
+                - title: Final Project
+                  children: 
+                    - title: Final Project (Part A)
+                      file: curriculum/current-topics-2/r-tidy/homework/project_final/project_final_partA.ipynb
+                    - title: Final Project (Part B)
+                      file: curriculum/current-topics-2/r-tidy/homework/project_final/project_final_partB.ipynb
+
         - file: curriculum/current-topics-2/index.md
         - file: curriculum/current-topics-2/week1.md
         - file: curriculum/current-topics-2/week2.md
