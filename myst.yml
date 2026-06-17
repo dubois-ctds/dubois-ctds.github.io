@@ -38,11 +38,6 @@ project:
       children:
         - title: "py-datascience"
           children:
-            - file: curriculum/fundamentals-fa25/py-datascience/index.md
-            - file: curriculum/fundamentals-fa25/py-datascience/week1.md
-            - file: curriculum/fundamentals-fa25/py-datascience/week2.md
-            - file: curriculum/fundamentals-fa25/py-datascience/week3.md
-            - file: curriculum/fundamentals-fa25/py-datascience/week4.md
             - title: Lecture notebooks
               children:
                 - title: Lecture 01
@@ -67,6 +62,11 @@ project:
                   file: curriculum/fundamentals-fa25/py-datascience/homework/hw01/hw01.ipynb
                 - title: Homework 02
                   file: curriculum/fundamentals-fa25/py-datascience/homework/hw02/hw02.ipynb
+        - file: curriculum/fundamentals-fa25/index.md
+        - file: curriculum/fundamentals-fa25/week1.md
+        - file: curriculum/fundamentals-fa25/week2.md
+        - file: curriculum/fundamentals-fa25/week3.md
+        - file: curriculum/fundamentals-fa25/week4.md
 
     - title: "Data and Privacy"
       children: 
@@ -79,9 +79,6 @@ project:
       children:
         - title: "py-datascience"
           children:
-            - file: curriculum/visualizations/py-datascience/index.md
-            - file: curriculum/visualizations/py-datascience/week1.md
-            - file: curriculum/visualizations/py-datascience/week2.md
             - title: Lecture notebooks
               children:
                 - title: Lecture 01
@@ -110,14 +107,15 @@ project:
                   file: curriculum/visualizations/py-datascience/homework/hw01/hw01.ipynb
                 - title: Project 01
                   file: curriculum/visualizations/py-datascience/homework/project1/project1.ipynb
+        - file: curriculum/visualizations/index.md
+        - file: curriculum/visualizations/week1.md
+        - file: curriculum/visualizations/week2.md
+        - file: curriculum/visualizations/week3.md
 
     - title: "Functions and Algorithms"
       children:
         - title: "py-datascience"
           children:
-            - file: curriculum/functions/py-datascience/index.md
-            - file: curriculum/functions/py-datascience/week1.md
-            - file: curriculum/functions/py-datascience/week2.md
             - title: Lecture notebooks
               children:
                 - title: Lecture 01
@@ -142,14 +140,14 @@ project:
                   file: curriculum/functions/py-datascience/homework/hw01/hw01.ipynb
                 - title: Homework 02
                   file: curriculum/functions/py-datascience/homework/hw02/hw02.ipynb
+        - file: curriculum/functions/index.md
+        - file: curriculum/functions/week1.md
+        - file: curriculum/functions/week2.md
       
     - title: "Current Topics - Web Scraping and HTML"
       children:
         - title: "py-datascience"
           children:
-            - file: curriculum/current-topics/py-datascience/index.md
-            - file: curriculum/current-topics/py-datascience/week1.md
-            - file: curriculum/current-topics/py-datascience/week2.md
             - title: Lecture notebooks
               children:
                 - title: Lecture 01
@@ -166,15 +164,14 @@ project:
               children:
                 - title: Project 2
                   file: curriculum/current-topics/py-datascience/homework/project2/project2.ipynb
+        - file: curriculum/current-topics/index.md
+        - file: curriculum/current-topics/week1.md
+        - file: curriculum/current-topics/week2.md
     
     - title: "Current Topics - GenAI and Qualitative Coding"
       children:
         - title: "py-datascience"
           children:
-            - file: curriculum/current-topics-2/py-datascience/index.md
-            - file: curriculum/current-topics-2/py-datascience/week1.md
-            - file: curriculum/current-topics-2/py-datascience/week2.md
-            - file: curriculum/current-topics-2/py-datascience/week3.md
             - title: Homeworks
               children:
                 - title: Final Project
@@ -183,6 +180,10 @@ project:
                       file: curriculum/current-topics-2/py-datascience/homework/project_final/project_final_partA.ipynb
                     - title: Final Project (Part B)
                       file: curriculum/current-topics-2/py-datascience/homework/project_final/project_final_partB.ipynb
+        - file: curriculum/current-topics-2/index.md
+        - file: curriculum/current-topics-2/week1.md
+        - file: curriculum/current-topics-2/week2.md
+        - file: curriculum/current-topics-2/week3.md
 
 site:
   template: book-theme
