@@ -103,7 +103,7 @@ project:
             - title: Labs
               children:
                 - title: Lab 01
-                  file: curriculum/fundamentals-fa25/r-tidy/lab/lab01/lab01.ipynb
+                  file: curriculum/fundamentals-fa25/r-tidy/lab/lab01/lab01-R.ipynb
                 - title: Lab 02
                   file: curriculum/fundamentals-fa25/r-tidy/lab/lab02/lab02-R.ipynb
                 - title: Lab 03
@@ -210,7 +210,7 @@ project:
                 - title: Lab 01
                   file: curriculum/visualizations/r-tidy/lab/lab01/lab01.ipynb
                 - title: Lab 02
-                  file: curriculum/visualizations/r-tidy/lab/lab02/lab02-R.ipynb
+                  file: curriculum/visualizations/r-tidy/lab/lab02/lab02.ipynb
                 - title: Lab 03
                   file: curriculum/visualizations/r-tidy/lab/lab03/lab03.ipynb
             - title: Homeworks
@@ -295,7 +295,7 @@ project:
                 - title: Lab 01
                   file: curriculum/functions/r-tidy/lab/lab01/lab01.ipynb
                 - title: Lab 02
-                  file: curriculum/functions/r-tidy/lab/lab02/lab02-R.ipynb
+                  file: curriculum/functions/r-tidy/lab/lab02/lab02.ipynb
                 - title: Lab 03
                   file: curriculum/functions/r-tidy/lab/lab03/lab03.ipynb
             - title: Homeworks
