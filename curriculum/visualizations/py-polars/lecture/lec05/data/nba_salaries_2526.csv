@@ -1,0 +1,442 @@
+﻿rank,name,position,team,salary,season
+1,Stephen Curry,PG,Golden State Warriors,59606817.00,2025
+2,Joel Embiid,C,Philadelphia 76ers,55224526.00,2025
+3,Nikola Jokic,C,Denver Nuggets,55224526.00,2025
+4,Kevin Durant,PF,Houston Rockets,54708609.00,2025
+5,Giannis Antetokounmpo,PF,Milwaukee Bucks,54126450.00,2025
+6,Luka Doncic,PG,Los Angeles Lakers,54126450.00,2025
+7,Jimmy Butler III,SF,Golden State Warriors,54126450.00,2025
+8,Anthony Davis,PF,Dallas Mavericks,54126450.00,2025
+9,Jayson Tatum,SF,Boston Celtics,54126450.00,2025
+10,Bradley Beal,SG,LA Clippers,53666270.00,2025
+11,Devin Booker,SG,Phoenix Suns,53142264.00,2025
+12,Karl-Anthony Towns,C,New York Knicks,53142264.00,2025
+13,Jaylen Brown,SG,Boston Celtics,53142264.00,2025
+14,LeBron James,SF,Los Angeles Lakers,52627153.00,2025
+15,Paul George,F,Philadelphia 76ers,51666090.00,2025
+16,Kawhi Leonard,SF,LA Clippers,50000000.00,2025
+17,Zach LaVine,SG,Sacramento Kings,47499660.00,2025
+18,Lauri Markkanen,PF,Utah Jazz,46394100.00,2025
+19,Cade Cunningham,PG,Detroit Pistons,46394100.00,2025
+20,Jamal Murray,PG,Denver Nuggets,46394100.00,2025
+21,Evan Mobley,PF,Cleveland Cavaliers,46394100.00,2025
+22,Donovan Mitchell,SG,Cleveland Cavaliers,46394100.00,2025
+23,Trae Young,PG,Atlanta Hawks,45997800.00,2025
+24,Anthony Edwards,SG,Minnesota Timberwolves,45550512.00,2025
+25,Tyrese Haliburton,PG,Indiana Pacers,45550512.00,2025
+26,Pascal Siakam,PF,Indiana Pacers,45550512.00,2025
+27,Domantas Sabonis,PF,Sacramento Kings,43636000.00,2025
+28,OG Anunoby,SF,New York Knicks,39568966.00,2025
+29,Ja Morant,PG,Memphis Grizzlies,39446090.00,2025
+30,Darius Garland,PG,Cleveland Cavaliers,39446090.00,2025
+31,Zion Williamson,PF,New Orleans Pelicans,39446090.00,2025
+32,James Harden,SG,LA Clippers,39182692.00,2025
+33,Scottie Barnes,SF,Toronto Raptors,38661750.00,2025
+34,Franz Wagner,SF,Orlando Magic,38661750.00,2025
+35,Shai Gilgeous-Alexander,PG,Oklahoma City Thunder,38333050.00,2025
+36,Michael Porter Jr.,F,Brooklyn Nets,38333050.00,2025
+37,Brandon Ingram,SF,Toronto Raptors,38095238.00,2025
+38,LaMelo Ball,PG,Charlotte Hornets,37958760.00,2025
+39,Tyrese Maxey,PG,Philadelphia 76ers,37958760.00,2025
+40,De'Aaron Fox,PG,San Antonio Spurs,37096620.00,2025
+41,Bam Adebayo,C,Miami Heat,37096620.00,2025
+42,Desmond Bane,SG,Orlando Magic,36725670.00,2025
+43,Kyrie Irving,PG,Dallas Mavericks,36566002.00,2025
+44,Jalen Suggs,SG,Orlando Magic,35000000.00,2025
+45,Rudy Gobert,C,Minnesota Timberwolves,35000000.00,2025
+46,Jalen Brunson,PG,New York Knicks,34944001.00,2025
+47,Alperen Sengun,C,Houston Rockets,33944954.00,2025
+48,Khris Middleton,SF,Washington Wizards,33926296.00,2025
+49,Jalen Green,SG,Phoenix Suns,33548499.00,2025
+50,Immanuel Quickley,SG,Toronto Raptors,32500000.00,2025
+51,Jrue Holiday,PG,Portland Trail Blazers,32400000.00,2025
+52,Jerami Grant,SF,Portland Trail Blazers,32000000.00,2025
+53,Jordan Poole,SG,New Orleans Pelicans,31848215.00,2025
+54,Tyler Herro,PG,Miami Heat,31000000.00,2025
+55,Julius Randle,PF,Minnesota Timberwolves,30864198.00,2025
+56,Dejounte Murray,SG,New Orleans Pelicans,30801103.00,2025
+57,Kristaps Porzingis,C,Atlanta Hawks,30731707.00,2025
+58,CJ McCollum,SG,Washington Wizards,30666666.00,2025
+59,Jalen Johnson,SF,Atlanta Hawks,30000000.00,2025
+60,Isaiah Hartenstein,C,Oklahoma City Thunder,28500000.00,2025
+61,Andrew Wiggins,SF,Miami Heat,28223214.00,2025
+62,Derrick White,PG,Boston Celtics,28100001.00,2025
+63,RJ Barrett,SG,Toronto Raptors,27705357.00,2025
+64,Anfernee Simons,SG,Boston Celtics,27678571.00,2025
+65,Devin Vassell,SG,San Antonio Spurs,27000000.00,2025
+66,Terry Rozier,SG,Miami Heat,26643031.00,2025
+67,Tobias Harris,F,Detroit Pistons,26634146.00,2025
+68,John Collins,PF,LA Clippers,26580000.00,2025
+69,Draymond Green,PF,Golden State Warriors,25892857.00,2025
+70,Nic Claxton,C,Brooklyn Nets,25352272.00,2025
+71,Myles Turner,C,Milwaukee Bucks,25318251.00,2025
+72,Miles Bridges,SF,Charlotte Hornets,25000000.00,2025
+73,Trey Murphy III,SG,New Orleans Pelicans,25000000.00,2025
+74,Mikal Bridges,SF,New York Knicks,24900000.00,2025
+75,Jaden McDaniels,PF,Minnesota Timberwolves,24858622.00,2025
+76,DeMar DeRozan,SF,Sacramento Kings,24570000.00,2025
+77,Fred VanVleet,PG,Houston Rockets,24038462.00,2025
+78,Jaren Jackson Jr.,PF,Memphis Grizzlies,23413395.00,2025
+79,De'Andre Hunter,SF,Cleveland Cavaliers,23303571.00,2025
+80,Aaron Gordon,PF,Denver Nuggets,22841455.00,2025
+81,Dillon Brooks,SF,Phoenix Suns,22124110.00,2025
+82,Kyle Kuzma,SF,Milwaukee Bucks,21810605.00,2025
+83,Kentavious Caldwell-Pope,SG,Memphis Grizzlies,21621500.00,2025
+84,Naz Reid,C,Minnesota Timberwolves,21551724.00,2025
+85,Nikola Vucevic,C,Chicago Bulls,21481481.00,2025
+86,Cameron Johnson,SF,Denver Nuggets,21057065.00,2025
+87,Norman Powell,G,Miami Heat,20482758.00,2025
+88,Jarrett Allen,C,Cleveland Cavaliers,20000000.00,2025
+89,Jakob Poeltl,C,Toronto Raptors,19500000.00,2025
+90,Josh Hart,SG,New York Knicks,19472240.00,2025
+91,Jusuf Nurkic,C,Utah Jazz,19375000.00,2025
+92,Collin Sexton,G,Charlotte Hornets,19170000.00,2025
+93,Harrison Barnes,SF,San Antonio Spurs,19000000.00,2025
+94,Malik Monk,SG,Sacramento Kings,18797618.00,2025
+95,Santi Aldama,PF,Memphis Grizzlies,18485916.00,2025
+96,Rui Hachimura,PF,Los Angeles Lakers,18259259.00,2025
+97,Luguentz Dort,G,Oklahoma City Thunder,18222222.00,2025
+98,Alex Caruso,SG,Oklahoma City Thunder,18102000.00,2025
+99,Ivica Zubac,C,LA Clippers,18102000.00,2025
+100,Andrew Nembhard,PG,Indiana Pacers,18102000.00,2025
+101,Zach Collins,PF,Chicago Bulls,18080496.00,2025
+102,Patrick Williams,PF,Chicago Bulls,18000000.00,2025
+103,Kevin Huerter,SG,Chicago Bulls,17991071.00,2025
+104,Keldon Johnson,SF,San Antonio Spurs,17500000.00,2025
+105,Grayson Allen,SG,Phoenix Suns,16875000.00,2025
+106,Duncan Robinson,F,Detroit Pistons,16834692.00,2025
+107,Klay Thompson,SG,Dallas Mavericks,16666667.00,2025
+108,Bogdan Bogdanovic,SG,LA Clippers,16020000.00,2025
+109,Max Strus,SG,Cleveland Cavaliers,15936452.00,2025
+110,Terance Mann,SG,Brooklyn Nets,15500000.00,2025
+111,Paolo Banchero,PF,Orlando Magic,15334769.00,2025
+112,Nickeil Alexander-Walker,SG,Atlanta Hawks,15161800.00,2025
+113,Jonathan Isaac,PF,Orlando Magic,15000000.00,2025
+114,Isaiah Stewart,C,Detroit Pistons,15000000.00,2025
+115,Onyeka Okongwu,PF,Atlanta Hawks,15000000.00,2025
+116,Cooper Flagg,F,Dallas Mavericks,14386320.00,2025
+117,Daniel Gafford,C,Dallas Mavericks,14386320.00,2025
+118,Deni Avdija,SF,Portland Trail Blazers,14375000.00,2025
+119,P.J. Washington,PF,Dallas Mavericks,14152174.00,2025
+120,Steven Adams,C,Houston Rockets,14130434.00,2025
+121,Dennis Schroder,PG,Sacramento Kings,14104000.00,2025
+122,Damian Lillard,PG,Portland Trail Blazers,14104000.00,2025
+123,Caris LeVert,SG,Detroit Pistons,14104000.00,2025
+124,Obi Toppin,PF,Indiana Pacers,14000000.00,2025
+125,Corey Kispert,SF,Washington Wizards,13975000.00,2025
+126,Austin Reaves,SG,Los Angeles Lakers,13937574.00,2025
+127,Herbert Jones,SF,New Orleans Pelicans,13937574.00,2025
+128,Chet Holmgren,PF,Oklahoma City Thunder,13731368.00,2025
+129,Josh Green,SG,Charlotte Hornets,13666667.00,2025
+130,Grant Williams,PF,Charlotte Hornets,13645500.00,2025
+131,Bobby Portis,F,Milwaukee Bucks,13580247.00,2025
+132,Kelly Olynyk,PF,San Antonio Spurs,13445122.00,2025
+133,Victor Wembanyama,C,San Antonio Spurs,13376880.00,2025
+134,Robert Williams III,C,Portland Trail Blazers,13285713.00,2025
+135,Richaun Holmes,F,Washington Wizards,13280737.00,2025
+136,Zaccharie Risacher,PF,Atlanta Hawks,13197720.00,2025
+137,Cole Anthony,PG,Milwaukee Bucks,13100000.00,2025
+138,Mitchell Robinson,C,New York Knicks,12954546.00,2025
+139,Coby White,PG,Chicago Bulls,12888889.00,2025
+140,Dorian Finney-Smith,PF,Houston Rockets,12700000.00,2025
+141,Brandon Clarke,PF,Memphis Grizzlies,12500000.00,2025
+142,Dylan Harper,G,San Antonio Spurs,12370320.00,2025
+143,Isaiah Joe,SG,Oklahoma City Thunder,12362338.00,2025
+144,Jabari Smith Jr.,PF,Houston Rockets,12350392.00,2025
+145,Donte DiVincenzo,SG,Minnesota Timberwolves,11990000.00,2025
+146,Brandon Miller,F,Charlotte Hornets,11968800.00,2025
+147,Alex Sarr,PF,Washington Wizards,11808240.00,2025
+148,Davion Mitchell,PG,Miami Heat,11600000.00,2025
+149,Moses Moody,SG,Golden State Warriors,11574074.00,2025
+150,Jarred Vanderbilt,PF,Los Angeles Lakers,11571429.00,2025
+151,Matisse Thybulle,SG,Portland Trail Blazers,11550000.00,2025
+152,Gabe Vincent,PG,Los Angeles Lakers,11500000.00,2025
+153,Keegan Murray,SF,Sacramento Kings,11144093.00,2025
+154,VJ Edgecombe,G,Philadelphia 76ers,11108880.00,2025
+155,Luke Kornet,C,San Antonio Spurs,11000000.00,2025
+156,Maxi Kleber,PF,Los Angeles Lakers,11000000.00,2025
+157,Aaron Nesmith,SF,Indiana Pacers,11000000.00,2025
+158,Isaac Okoro,SF,Chicago Bulls,11000000.00,2025
+159,Luke Kennard,SG,Atlanta Hawks,11000000.00,2025
+160,Wendell Carter Jr.,C,Orlando Magic,10850000.00,2025
+161,Mike Conley,PG,Minnesota Timberwolves,10774038.00,2025
+162,Scoot Henderson,G,Portland Trail Blazers,10748040.00,2025
+163,Reed Sheppard,G,Houston Rockets,10603560.00,2025
+164,Jonas Valanciunas,C,Denver Nuggets,10395000.00,2025
+165,T.J. McConnell,PG,Indiana Pacers,10200000.00,2025
+166,Royce O'Neale,PF,Phoenix Suns,10125000.00,2025
+167,Jaden Ivey,PG,Detroit Pistons,10107163.00,2025
+168,Aaron Wiggins,SG,Oklahoma City Thunder,10102802.00,2025
+169,Sam Hauser,SF,Boston Celtics,10044643.00,2025
+170,Kon Knueppel,G,Charlotte Hornets,10015680.00,2025
+171,Derrick Jones Jr.,SF,LA Clippers,10000000.00,2025
+172,Lonzo Ball,PG,Cleveland Cavaliers,10000000.00,2025
+173,Amen Thompson,F,Houston Rockets,9690600.00,2025
+174,Caleb Martin,SF,Dallas Mavericks,9594044.00,2025
+175,Stephon Castle,G,San Antonio Spurs,9560520.00,2025
+176,Pat Connaughton,SG,Charlotte Hornets,9423869.00,2025
+177,Kyle Anderson,SF,Utah Jazz,9219512.00,2025
+178,Buddy Hield,SG,Golden State Warriors,9219512.00,2025
+179,Bennedict Mathurin,SG,Indiana Pacers,9187573.00,2025
+180,Ace Bailey,G,Utah Jazz,9069840.00,2025
+181,Naji Marshall,SF,Dallas Mavericks,9000000.00,2025
+182,Jalen Smith,PF,Chicago Bulls,9000000.00,2025
+183,Ty Jerome,SG,Memphis Grizzlies,8781000.00,2025
+184,Ausar Thompson,F,Detroit Pistons,8775000.00,2025
+185,Brook Lopez,C,LA Clippers,8750000.00,2025
+186,Cody Martin,SF,Phoenix Suns,8680000.00,2025
+187,Ronald Holland II,F,Detroit Pistons,8657280.00,2025
+188,Sam Merrill,SG,Cleveland Cavaliers,8482143.00,2025
+189,Jaylin Williams,F,Oklahoma City Thunder,8450794.00,2025
+190,Shaedon Sharpe,SG,Portland Trail Blazers,8399983.00,2025
+191,Kelly Oubre Jr.,SG,Philadelphia 76ers,8382150.00,2025
+192,Goga Bitadze,C,Orlando Magic,8333333.00,2025
+193,Simone Fontecchio,F,Miami Heat,8307692.00,2025
+194,Tre Johnson,G,Washington Wizards,8237640.00,2025
+195,Georges Niang,SF,Utah Jazz,8200000.00,2025
+196,Zeke Nnaji,PF,Denver Nuggets,8177778.00,2025
+197,Deandre Ayton,C,Los Angeles Lakers,8104000.00,2025
+198,KJ Martin,F,Utah Jazz,8025000.00,2025
+199,Tre Mann,PG,Charlotte Hornets,8000000.00,2025
+200,Jock Landale,C,Memphis Grizzlies,8000000.00,2025
+201,Tre Jones,PG,Chicago Bulls,8000000.00,2025
+202,Kevon Looney,F,New Orleans Pelicans,8000000.00,2025
+203,Anthony Black,G,Orlando Magic,7970280.00,2025
+204,Tidjane Salaun,F,Charlotte Hornets,7863240.00,2025
+205,Josh Okogie,SF,Houston Rockets,7750000.00,2025
+206,Max Christie,G,Dallas Mavericks,7714286.00,2025
+207,Dyson Daniels,G,Atlanta Hawks,7707709.00,2025
+208,Jeremiah Fears,G,New Orleans Pelicans,7520040.00,2025
+209,Ayo Dosunmu,SG,Chicago Bulls,7518519.00,2025
+210,Bilal Coulibaly,SG,Washington Wizards,7275600.00,2025
+211,Payton Pritchard,PG,Boston Celtics,7232143.00,2025
+212,Donovan Clingan,C,Portland Trail Blazers,7178400.00,2025
+213,Kenrich Williams,SF,Oklahoma City Thunder,7163000.00,2025
+214,Jeremy Sochan,F,San Antonio Spurs,7096231.00,2025
+215,Tyus Jones,PG,Orlando Magic,7000000.00,2025
+216,Isaiah Jackson,SF,Indiana Pacers,7000000.00,2025
+217,Egor Demin,G,Brooklyn Nets,6889200.00,2025
+218,Jevon Carter,PG,Chicago Bulls,6809524.00,2025
+219,Clint Capela,C,Houston Rockets,6700000.00,2025
+220,Ousmane Dieng,F,Oklahoma City Thunder,6670882.00,2025
+221,Jarace Walker,F,Indiana Pacers,6665520.00,2025
+222,Dean Wade,PF,Cleveland Cavaliers,6623456.00,2025
+223,Jalen Williams,F,Oklahoma City Thunder,6580997.00,2025
+224,Rob Dillingham,G,Minnesota Timberwolves,6576120.00,2025
+225,Jalen Duren,C,Detroit Pistons,6483144.00,2025
+226,Ochai Agbaji,G,Toronto Raptors,6383525.00,2025
+227,Collin Murray-Boyles,F,Toronto Raptors,6332520.00,2025
+228,Mark Williams,C,Phoenix Suns,6276531.00,2025
+229,Ziaire Williams,F,Brooklyn Nets,6250000.00,2025
+230,Day'Ron Sharpe,C,Brooklyn Nets,6250000.00,2025
+231,John Konchar,SG,Memphis Grizzlies,6165000.00,2025
+232,Taylor Hendricks,F,Utah Jazz,6127080.00,2025
+233,Saddiq Bey,SF,New Orleans Pelicans,6118644.00,2025
+234,Zach Edey,C,Memphis Grizzlies,6045000.00,2025
+235,Khaman Maluach,C,Phoenix Suns,6016080.00,2025
+236,Jake LaRavia,F,Los Angeles Lakers,6000000.00,2025
+237,Jaden Hardy,G,Dallas Mavericks,6000000.00,2025
+238,Cam Thomas,SG,Brooklyn Nets,5993172.00,2025
+239,Cason Wallace,G,Oklahoma City Thunder,5820240.00,2025
+240,Cody Williams,F,Utah Jazz,5742480.00,2025
+241,Cedric Coward,F,Memphis Grizzlies,5715120.00,2025
+242,D'Angelo Russell,PG,Dallas Mavericks,5685000.00,2025
+243,Tari Eason,F,Houston Rockets,5675766.00,2025
+244,Haywood Highsmith,F,Brooklyn Nets,5616000.00,2025
+245,Nicolas Batum,PF,LA Clippers,5601600.00,2025
+246,Jett Howard,G,Orlando Magic,5529720.00,2025
+247,Guerschon Yabusele,F,New York Knicks,5500000.00,2025
+248,Matas Buzelis,F,Chicago Bulls,5455560.00,2025
+249,Noa Essengue,F,Chicago Bulls,5429520.00,2025
+250,Dario Saric,PF,Sacramento Kings,5426000.00,2025
+251,Kris Dunn,G,LA Clippers,5426000.00,2025
+252,Dalen Terry,F,Chicago Bulls,5399118.00,2025
+253,Paul Reed,F,Detroit Pistons,5335894.00,2025
+254,Dereck Lively II,C,Dallas Mavericks,5253360.00,2025
+255,Nikola Topic,G,Oklahoma City Thunder,5182920.00,2025
+256,Derik Queen,C,New Orleans Pelicans,5157960.00,2025
+257,Marcus Smart,PG,Los Angeles Lakers,5134000.00,2025
+258,Nick Richards,C,Phoenix Suns,5000000.00,2025
+259,Andre Drummond,C,Philadelphia 76ers,5000000.00,2025
+260,Moritz Wagner,C,Orlando Magic,5000000.00,2025
+261,Gradey Dick,G,Toronto Raptors,4990560.00,2025
+262,Malaki Branham,G,Washington Wizards,4962033.00,2025
+263,Devin Carter,G,Sacramento Kings,4923720.00,2025
+264,Christian Braun,G,Denver Nuggets,4921797.00,2025
+265,Carter Bryant,F,San Antonio Spurs,4900320.00,2025
+266,Walker Kessler,C,Utah Jazz,4878938.00,2025
+267,Jordan Hawkins,G,New Orleans Pelicans,4741320.00,2025
+268,Blake Wesley,G,Portland Trail Blazers,4726328.00,2025
+269,Bub Carrington,G,Washington Wizards,4677600.00,2025
+270,Thomas Sorber,C,Oklahoma City Thunder,4655040.00,2025
+271,Kobe Bufkin,G,Brooklyn Nets,4503720.00,2025
+272,Jose Alvarado,PG,New Orleans Pelicans,4500000.00,2025
+273,Nikola Jovic,F,Miami Heat,4445417.00,2025
+274,Kel'el Ware,C,Miami Heat,4443360.00,2025
+275,Yang Hansen,C,Portland Trail Blazers,4422360.00,2025
+276,Peyton Watson,F,Denver Nuggets,4356476.00,2025
+277,Miles McBride,PG,New York Knicks,4333333.00,2025
+278,Keyonte George,G,Utah Jazz,4278960.00,2025
+279,Jared McCain,G,Philadelphia 76ers,4221360.00,2025
+280,Joan Beringer,C,Minnesota Timberwolves,4201080.00,2025
+281,Kevin Love,PF,Utah Jazz,4150000.00,2025
+282,Dalton Knecht,G,Los Angeles Lakers,4010160.00,2025
+283,Ryan Rollins,G,Milwaukee Bucks,4000000.00,2025
+284,Dwight Powell,C,Dallas Mavericks,4000000.00,2025
+285,Walter Clayton Jr.,G,Utah Jazz,3991320.00,2025
+286,Jaime Jaquez Jr.,G,Miami Heat,3861600.00,2025
+287,Nolan Traore,G,Brooklyn Nets,3811560.00,2025
+288,Tristan da Silva,F,Orlando Magic,3809520.00,2025
+289,Gary Trent Jr.,SG,Milwaukee Bucks,3697105.00,2025
+290,Brandin Podziemski,G,Golden State Warriors,3687960.00,2025
+291,Svi Mykhailiuk,SG,Utah Jazz,3675000.00,2025
+292,Kasparas Jakucionis,G,Miami Heat,3658800.00,2025
+293,Ja'Kobe Walter,G,Toronto Raptors,3638160.00,2025
+294,Gary Harris,SG,Milwaukee Bucks,3634153.00,2025
+295,Cam Whitmore,F,Washington Wizards,3539760.00,2025
+296,Will Riley,G,Washington Wizards,3512520.00,2025
+297,Jaylon Tyson,F,Cleveland Cavaliers,3492480.00,2025
+298,Eric Gordon,SG,Philadelphia 76ers,3468960.00,2025
+299,Jaxson Hayes,C,Los Angeles Lakers,3449324.00,2025
+300,Noah Clowney,F,Brooklyn Nets,3398640.00,2025
+301,Drake Powell,G,Brooklyn Nets,3372240.00,2025
+302,Yves Missi,C,New Orleans Pelicans,3353040.00,2025
+303,Taurean Prince,PF,Milwaukee Bucks,3303774.00,2025
+304,Dariq Whitehead,F,Brooklyn Nets,3262560.00,2025
+305,Asa Newell,F,Atlanta Hawks,3237480.00,2025
+306,DaRon Holmes II,C,Denver Nuggets,3218760.00,2025
+307,Kris Murray,F,Portland Trail Blazers,3132000.00,2025
+308,Nique Clifford,G,Sacramento Kings,3108120.00,2025
+309,AJ Johnson,G,Washington Wizards,3090480.00,2025
+310,Olivier-Maxence Prosper,F,Memphis Grizzlies,3007080.00,2025
+311,Kyle Filipowski,F,Utah Jazz,3000000.00,2025
+312,Ajay Mitchell,G,Oklahoma City Thunder,3000000.00,2025
+313,Julian Champagnie,F,San Antonio Spurs,3000000.00,2025
+314,Shake Milton,SG,Los Angeles Lakers,3000000.00,2025
+315,Jase Richardson,G,Orlando Magic,2983320.00,2025
+316,Kyshawn George,F,Washington Wizards,2966760.00,2025
+317,Tony Bradley,C,Indiana Pacers,2940876.00,2025
+318,Marcus Sasser,G,Detroit Pistons,2886720.00,2025
+319,Ben Saraf,G,Brooklyn Nets,2884560.00,2025
+320,Pacome Dadiet,G,New York Knicks,2847600.00,2025
+321,Johnny Juzang,G,Minnesota Timberwolves,2840518.00,2025
+322,Danny Wolf,F,Brooklyn Nets,2801280.00,2025
+323,Ben Sheppard,G,Indiana Pacers,2790720.00,2025
+324,Hugo Gonzalez,G,Boston Celtics,2783880.00,2025
+325,Liam McNeeley,G,Charlotte Hornets,2763960.00,2025
+326,Dillon Jones,G,Washington Wizards,2753280.00,2025
+327,Yanic Konan Niederhauser,C,LA Clippers,2743800.00,2025
+328,DaQuan Jeffries,SG,Charlotte Hornets,2743776.00,2025
+329,Nick Smith Jr.,G,Los Angeles Lakers,2710680.00,2025
+330,Brice Sensabaugh,F,Utah Jazz,2693760.00,2025
+331,Julian Strawther,G,Denver Nuggets,2674200.00,2025
+332,Terrence Shannon Jr.,G,Minnesota Timberwolves,2674080.00,2025
+333,James Wiseman,C,Indiana Pacers,2667947.00,2025
+334,Ryan Dunn,F,Phoenix Suns,2657760.00,2025
+335,Isaiah Collier,G,Utah Jazz,2638200.00,2025
+336,Baylor Scheierman,F,Boston Celtics,2619000.00,2025
+337,Anthony Gill,PF,Washington Wizards,2546675.00,2025
+338,Terence Davis,G,Sacramento Kings,2546675.00,2025
+339,Xavier Tillman,F,Boston Celtics,2546675.00,2025
+340,Cam Spencer,G,Memphis Grizzlies,2537989.00,2025
+341,Sandro Mamukelashvili,PF,Toronto Raptors,2461463.00,2025
+342,Trendon Watford,PF,Philadelphia 76ers,2461463.00,2025
+343,Jericho Sims,C,Milwaukee Bucks,2461463.00,2025
+344,Luka Garza,C,Boston Celtics,2461463.00,2025
+345,Dru Smith,G,Miami Heat,2378870.00,2025
+346,Josh Minott,F,Boston Celtics,2378870.00,2025
+347,Justin Champagnie,SF,Washington Wizards,2349578.00,2025
+348,Jared Butler,SG,Phoenix Suns,2349578.00,2025
+349,Jordan Goodwin,G,Phoenix Suns,2349578.00,2025
+350,Keon Johnson,G,Brooklyn Nets,2349578.00,2025
+351,Jay Huff,C,Indiana Pacers,2349578.00,2025
+352,Jaden Springer,G,New Orleans Pelicans,2349578.00,2025
+353,Neemias Queta,C,Boston Celtics,2349578.00,2025
+354,Vit Krejci,G,Atlanta Hawks,2349578.00,2025
+355,Vince Williams Jr.,G,Memphis Grizzlies,2301587.00,2025
+356,Keon Ellis,G,Sacramento Kings,2301587.00,2025
+357,AJ Green,G,Milwaukee Bucks,2301587.00,2025
+358,Sion James,G,Charlotte Hornets,2296274.00,2025
+359,Ryan Kalkbrenner,C,Charlotte Hornets,2296274.00,2025
+360,Spencer Dinwiddie,PG,Charlotte Hornets,2296274.00,2025
+361,Mason Plumlee,C,Charlotte Hornets,2296274.00,2025
+362,Garrett Temple,SF,Toronto Raptors,2296274.00,2025
+363,Marvin Bagley III,F,Washington Wizards,2296274.00,2025
+364,Lindy Waters III,F,San Antonio Spurs,2296274.00,2025
+365,Jordan McLaughlin,PG,San Antonio Spurs,2296274.00,2025
+366,Doug McDermott,SF,Sacramento Kings,2296274.00,2025
+367,Collin Gillespie,G,Phoenix Suns,2296274.00,2025
+368,Nigel Hayes,F,Phoenix Suns,2296274.00,2025
+369,Kyle Lowry,PG,Philadelphia 76ers,2296274.00,2025
+370,Jordan Clarkson,G,New York Knicks,2296274.00,2025
+371,Joe Ingles,SG,Minnesota Timberwolves,2296274.00,2025
+372,Chris Livingston,F,Milwaukee Bucks,2296274.00,2025
+373,Thanasis Antetokounmpo,SF,Milwaukee Bucks,2296274.00,2025
+374,Chris Paul,PG,LA Clippers,2296274.00,2025
+375,Jae'Sean Tate,SF,Houston Rockets,2296274.00,2025
+376,Jeff Green,PF,Houston Rockets,2296274.00,2025
+377,Javonte Green,G,Detroit Pistons,2296274.00,2025
+378,Bruce Brown,SF,Denver Nuggets,2296274.00,2025
+379,Tim Hardaway Jr.,SF,Denver Nuggets,2296274.00,2025
+380,Dante Exum,G,Dallas Mavericks,2296274.00,2025
+381,Larry Nance Jr.,PF,Cleveland Cavaliers,2296274.00,2025
+382,Maxwell Lewis,F,Brooklyn Nets,2271677.00,2025
+383,Moussa Diabate,F,Charlotte Hornets,2270735.00,2025
+384,Scotty Pippen Jr.,G,Memphis Grizzlies,2270735.00,2025
+385,A.J. Lawson,G,Toronto Raptors,2270735.00,2025
+386,Dominick Barlow,F,Philadelphia 76ers,2270735.00,2025
+387,Nate Williams,G,Los Angeles Lakers,2270735.00,2025
+388,JD Davison,G,Houston Rockets,2270735.00,2025
+389,Brandon Williams,G,Dallas Mavericks,2270735.00,2025
+390,GG Jackson,F,Memphis Grizzlies,2221677.00,2025
+391,Rayan Rupert,G,Portland Trail Blazers,2221677.00,2025
+392,Toumani Camara,F,Portland Trail Blazers,2221677.00,2025
+393,Duop Reath,C,Portland Trail Blazers,2221677.00,2025
+394,Ricky Council IV,G,Philadelphia 76ers,2221677.00,2025
+395,Jalen Wilson,F,Brooklyn Nets,2221677.00,2025
+396,Leonard Miller,F,Minnesota Timberwolves,2221677.00,2025
+397,Andre Jackson Jr.,G,Milwaukee Bucks,2221677.00,2025
+398,Gui Santos,F,Golden State Warriors,2221677.00,2025
+399,Trayce Jackson-Davis,F,Golden State Warriors,2221677.00,2025
+400,Colby Jones,G,Detroit Pistons,2221677.00,2025
+401,Jalen Pickett,G,Denver Nuggets,2221677.00,2025
+402,Hunter Tyson,F,Denver Nuggets,2221677.00,2025
+403,Craig Porter Jr.,G,Cleveland Cavaliers,2221677.00,2025
+404,Julian Phillips,F,Chicago Bulls,2221677.00,2025
+405,Jordan Walsh,G,Boston Celtics,2221677.00,2025
+406,Mouhamed Gueye,F,Atlanta Hawks,2221677.00,2025
+407,Colin Castleton,C,Orlando Magic,2191897.00,2025
+408,Tyler Kolek,G,New York Knicks,2191897.00,2025
+409,Tyrese Martin,G,Brooklyn Nets,2191897.00,2025
+410,Jaylen Clark,G,Minnesota Timberwolves,2191897.00,2025
+411,Jordan Miller,G,LA Clippers,2191897.00,2025
+412,Justin Edwards,F,Philadelphia 76ers,2048494.00,2025
+413,Antonio Reeves,G,Charlotte Hornets,1955377.00,2025
+414,Jaylen Wells,F,Memphis Grizzlies,1955377.00,2025
+415,Jonathan Mogbo,F,Toronto Raptors,1955377.00,2025
+416,Jamal Shead,G,Toronto Raptors,1955377.00,2025
+417,Jamison Battle,F,Toronto Raptors,1955377.00,2025
+418,Isaac Jones,C,Sacramento Kings,1955377.00,2025
+419,Oso Ighodaro,C,Phoenix Suns,1955377.00,2025
+420,Adem Bona,C,Philadelphia 76ers,1955377.00,2025
+421,Ariel Hukporti,C,New York Knicks,1955377.00,2025
+422,Drew Timme,F,Brooklyn Nets,1955377.00,2025
+423,Tyler Smith,F,Milwaukee Bucks,1955377.00,2025
+424,Pelle Larsson,G,Miami Heat,1955377.00,2025
+425,Keshad Johnson,F,Miami Heat,1955377.00,2025
+426,Bronny James,G,Los Angeles Lakers,1955377.00,2025
+427,Cam Christie,G,LA Clippers,1955377.00,2025
+428,Johnny Furphy,F,Indiana Pacers,1955377.00,2025
+429,Bobi Klintman,F,Detroit Pistons,1955377.00,2025
+430,Karlo Matkovic,C,New Orleans Pelicans,1955377.00,2025
+431,Quinten Post,C,Golden State Warriors,1935377.00,2025
+432,Chaz Lanier,G,Detroit Pistons,1372870.00,2025
+433,Micah Peavy,G,New Orleans Pelicans,1272970.00,2025
+434,Maxime Raynaud,C,Sacramento Kings,1272870.00,2025
+435,Rasheer Fleming,F,Phoenix Suns,1272870.00,2025
+436,Johni Broome,F,Philadelphia 76ers,1272870.00,2025
+437,Noah Penda,F,Orlando Magic,1272870.00,2025
+438,Adou Thiero,F,Los Angeles Lakers,1272870.00,2025
+439,Kam Jones,G,Indiana Pacers,1272870.00,2025
+440,Tyrese Proctor,G,Cleveland Cavaliers,1272870.00,2025
+441,Nikola Djurisic,F,Atlanta Hawks,1272870.00,2025
