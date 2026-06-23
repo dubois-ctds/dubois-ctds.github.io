@@ -54,7 +54,7 @@ The above presentation is also available as [Google Slides](https://docs.google.
   * [Curriculum 2 Slides](https://docs.google.com/presentation/d/1rGH1GxZ4iW1cuf91W_6-cbwWNMM6YBRctWDIJdV0JME/edit?usp=sharing)
   * [Curriculum 2 Drive](https://drive.google.com/drive/folders/18zRh5iEkZPNka1_duFtWAPZleA1_Gv5X?usp=sharing)
 3. [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/)
-  * [datascience] [Jupyter Notebook](symposium/curriculum02/lab02-bickel-blank), GitHub
+  * [datascience] [Jupyter Notebook](symposium/curriculum02/lab02-bickel-blank), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/symposium/curriculum02/lab02-bickel-blank.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * [Jupyter Notebook: GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/tree/main/symposium/curriculum02/lab02-bickel-blank.ipynb)

@@ -53,7 +53,7 @@ The above presentation is also available as [Google Slides](https://docs.google.
   * [Curriculum 3 Slides](https://docs.google.com/presentation/d/10vTrA_zirna6-6EEW5W3oZwCP8F8B_WYvCzbNBRRRuE/edit?usp=drive_link)
   * [Curriculum 3 Drive](https://drive.google.com/drive/folders/103AF8SwcF0HrraPLd_gttkv1IiNEnYys?usp=drive_link)
 3. [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/)
-  * [datascience] [Jupyter Notebook](symposium/curriculum03/lab03-ai-blank), GitHub
+  * [datascience] [Jupyter Notebook](symposium/curriculum03/lab03-ai-blank), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/symposium/curriculum03/lab03-ai-blank.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * [Jupyter Notebook: GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/tree/main/symposium/curriculum03/lab03-ai-blank.ipynb)

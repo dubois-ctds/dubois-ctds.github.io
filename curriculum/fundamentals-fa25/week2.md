@@ -4,13 +4,13 @@ title: "Week 2"
 
 ## Lecture 2: Data Types and Rates
   * [Google Slides](https://docs.google.com/presentation/d/181ym51cLmKXoo2mCRmeR7qd2jxK4DSOkjscg9Z5NsIU/edit?usp=drive_link)  
-  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lecture-notebook/lec02/lec02/), GitHub
+  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lecture-notebook/lec02/lec02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/fundamentals-fa25/py-datascience/lecture/lec02/lec02.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
 * In this lecture students learn about Python expressions, naming conventions, and core data types. The lecture also introduces incidence rates as a practical application of data computation.
 
 ## Homework 1: Introduction to Python and Jupyter
-  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/homework/hw01/hw01/), GitHub
+  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/homework/hw01/hw01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/fundamentals-fa25/py-datascience/homework/hw01/hw01.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * In this homework students practice Python operations, naming, and functions while applying these skills to real-world public health contexts such as calculating and age-standardizing disease incidence rates.
@@ -22,7 +22,7 @@ title: "Week 2"
 
 
 ## Lab 2: Python Names
-  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lab/lab02/lab02/), GitHub
+  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lab/lab02/lab02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/fundamentals-fa25/py-datascience/lab/lab02/lab02.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * In this lab students practice Python assignment, division, casting, and string manipulation while applying these skills to calculate disease incidence rates.

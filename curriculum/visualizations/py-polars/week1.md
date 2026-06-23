@@ -4,14 +4,14 @@ title: "Week 1"
 
 ## Lecture 1: Visualizations
   * [Google Slides](https://docs.google.com/presentation/d/1kHypBMRJ_HCOeC543VrwRDQnQI0_oogieRPN6GSlUHw/edit?usp=sharing)  
-  * [datascience] [Jupyter Notebook](curriculum/visualizations/lecture-notebook/lec01/lec01/), GitHub
+  * [datascience] [Jupyter Notebook](curriculum/visualizations/lecture-notebook/lec01/lec01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/visualizations/py-datascience/lecture/lec01/lec01.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * This lecture introduces visualizations, their purpose, and common types used by data scientists. The lecture also focuses on the relationship between variable types and visualizations. 
   
 ## Lecture 2: Histograms and Ranges
   * [Google Slides](https://docs.google.com/presentation/d/1HPPZUVrR-04kZzkDVuO3LWVM87k_-NjhZr_XMGt-z50/edit?usp=sharing)  
-  * [datascience] [Jupyter Notebook](curriculum/visualizations/lecture-notebook/lec02/lec02/), GitHub
+  * [datascience] [Jupyter Notebook](curriculum/visualizations/lecture-notebook/lec02/lec02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/visualizations/py-datascience/lecture/lec02/lec02.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * This lecture describes the parts of a histogram and defines core attributes such as bins and histogram density. 
@@ -22,7 +22,7 @@ title: "Week 1"
   * This discussion covers how visualizations represent and misrepresent data and empowers them to consider adjustments to example visualizations.
 
 ## Lab 1: Visualizations
-  * [datascience] [Jupyter Notebook](curriculum/visualizations/lab/lab01/lab01/), GitHub
+  * [datascience] [Jupyter Notebook](curriculum/visualizations/lab/lab01/lab01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/visualizations/py-datascience/lab/lab01/lab01.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * This lab introduces students to making several common visualizations such as scatter plots, line plots and horizontal bar charts using methods such as .plot and .bahr.
