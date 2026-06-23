@@ -14,7 +14,9 @@ title: "Week 3"
 
 ## Project: Final Project (Part B)
   * [Google Doc](https://docs.google.com/document/d/1tw_CiD_84eJJKPvyKOKFL-4CAen2szSEKytggsvKm84/edit?usp=sharing)
-  * [Jupyter Notebook](curriculum/current-topics-2/project/project-final/project-final-partb/)
+  * [datascience] [Jupyter Notebook](curriculum/current-topics-2/project/project-final/project-final-partb/), GitHub
+  * [polars, coming soon] Jupyter Notebook, GitHub
+  * [R, coming soon] Jupyter Notebook, GitHub
 
 
 ## Discussion 2: The Belmont Report

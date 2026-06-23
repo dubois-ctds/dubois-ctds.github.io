@@ -4,11 +4,15 @@ title: "Week 2"
 
 ## Lecture 2: Data Types and Rates
   * [Google Slides](https://docs.google.com/presentation/d/181ym51cLmKXoo2mCRmeR7qd2jxK4DSOkjscg9Z5NsIU/edit?usp=drive_link)  
-  * [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lecture-notebook/lec02/lec02/)
+  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lecture-notebook/lec02/lec02/), GitHub
+  * [polars, coming soon] Jupyter Notebook, GitHub
+  * [R, coming soon] Jupyter Notebook, GitHub
 * In this lecture students learn about Python expressions, naming conventions, and core data types. The lecture also introduces incidence rates as a practical application of data computation.
 
 ## Homework 1: Introduction to Python and Jupyter
-  * [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/homework/hw01/hw01/)
+  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/homework/hw01/hw01/), GitHub
+  * [polars, coming soon] Jupyter Notebook, GitHub
+  * [R, coming soon] Jupyter Notebook, GitHub
   * In this homework students practice Python operations, naming, and functions while applying these skills to real-world public health contexts such as calculating and age-standardizing disease incidence rates.
 
 ## Discussion 2: Considering Fractions
@@ -18,7 +22,9 @@ title: "Week 2"
 
 
 ## Lab 2: Python Names
-  * [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lab/lab02/lab02/)
+  * [datascience] [Jupyter Notebook](https://dubois-ctds.github.io/curriculum/fundamentals-fa25/lab/lab02/lab02/), GitHub
+  * [polars, coming soon] Jupyter Notebook, GitHub
+  * [R, coming soon] Jupyter Notebook, GitHub
   * In this lab students practice Python assignment, division, casting, and string manipulation while applying these skills to calculate disease incidence rates.
 
 

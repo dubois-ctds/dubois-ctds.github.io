@@ -56,7 +56,9 @@ The above presentation is also available as [Google Slides](https://docs.google.
   * [Curriculum 1 Slides](https://docs.google.com/presentation/d/15fWACHvgmjtJvP_SxlX0D0cEG2cXuZX_yoycWex_Ze8/edit?usp=sharing)
   * [Curriculum 1 Drive](https://drive.google.com/drive/folders/18zRh5iEkZPNka1_duFtWAPZleA1_Gv5X?usp=sharing)
 3. [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/tree/main/symposium)
-  * [Jupyter Notebook](symposium/curriculum01/lab01-presentation)
+  * [datascience] [Jupyter Notebook](symposium/curriculum01/lab01-presentation), GitHub
+  * [polars, coming soon] Jupyter Notebook, GitHub
+  * [R, coming soon] Jupyter Notebook, GitHub
   * [Interactive Jupyter Notebook](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdubois-ctds%2Fdubois-ctds.github.io&branch=main&urlpath=tree%2Fdubois-ctds.github.io%2Fsymposium%2Fcurriculum01%2Flab01-presentation.ipynb)
 
 
