@@ -3,6 +3,10 @@ title: "Symposium on Undergraduate Data Science Education"
 short_title: "Overview and Getting Here"
 ---
 
+_This open-invitation event was held in Spring 2026. Materials are posted and available for public access._
+
+## Invitation Flyer
+
 You are cordially invited to our first Symposium on Undergraduate Data Science Education on May 18-20, 2026 at the Auburn University Dixon Conference Center in Auburn, Alabama.
 
 :::{image} ../assets/images/flyer.png

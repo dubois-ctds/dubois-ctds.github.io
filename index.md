@@ -1,5 +1,5 @@
 ---
-title: "DUBOIS Home"
+title: "DUBOIS"
 short_title: "Home"
 ---
 
@@ -25,20 +25,28 @@ Collaborative development of a new introductory, interdisciplinary course for co
 
 ## Curriculum Overview
 
-This project plans for four course modules, built as 2-3 week units and designed by interdisciplinary, inter-institutional teams:
-* Fundamental Data Structures for Data Science. Bortfeld (chair).
+This project has developed a course with four course modules, each built as 2-4 week units and designed by interdisciplinary, inter-institutional teams:
+* Fundamental Data Structures for Data Science. Williams and Bortfeld (chairs).
 * Visualization, Gender, and Education. Yan (chair).
 * Social Application Core: Algorithms and Functions. Marcia (chair).
 * Text processing and data analysis. Ndoye (chair).
 
-Full curriculum to come soon!
+Access our [full curriculum](curriculum/).
 
-## Funding
+## Support
 
 This project is funded by the following sources:
+
 * This material is based upon work supported by the U.S. National Science Foundation under award Nos. [2245877](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245877), [2245878](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245878), [2245879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245879). NSF [IUSE CUE](https://new.nsf.gov/funding/opportunities/improving-undergraduate-stem-education-computing): "Collaborative Research: Developing inclusive, interdisciplinary undergraduate data science curricula in computing and social science."
 * **California Learning Lab**. Collaborative Design of Interdisciplinary, Inclusive, Introductory Data Science Course Modules \[[link](https://calearninglab.org/project/collaborative-design-of-interdisciplinary-inclusive-introductory-data-science-course-modules/)\]
 
 ## Why DUBOIS?
 
 At the core of our activities, we would like to support **D**ata science for **U**ndergraduates to **B**roaden **O**pportunities for advancing an **I**nclusive **S**ociety. W.E.B. Du Bois was a prominent 20th century African American activist who leveraged data science and visualization to advocate for Pan-African civil rights.
+
+## Usage and License
+
+We appreciate email communication to track partial or full course adoption. Please contact the [Principal Investigators by email](team/) if you would like to use this work. Send a quick email describing your institutional affiliation, course title, target semester, and estimated student enrollment.
+
+Unless otherwise mentioned, all contents are licensed for free consumption under the following license:
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en)
