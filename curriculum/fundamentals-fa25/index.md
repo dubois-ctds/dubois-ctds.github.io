@@ -92,7 +92,7 @@ Cathy O'Neil, _Weapons of Math Destruction, 2017_. "Chapter 3 Arms Race: Going t
 
 ### Lecture 2: Data Types and Rates
 
-* [Google Slides](https://docs.google.com/presentation/d/181ym51cLmKXoo2mCRmeR7qd2jxK4DSOkjscg9Z5NsIU/edit?usp=drive_link)  
+* [Google Slides](https://docs.google.com/presentation/d/1AvvGtEqIohECXiiqvO8BOSRYEiBk6GP5K5s8F9dtDtM/edit?usp=drive_link)  
 * [datascience] [Jupyter Notebook](curriculum/fundamentals-fa25/py-datascience/lecture/lec02/lec02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/fundamentals-fa25/py-datascience/lecture/lec02/lec02.ipynb)
 * [polars, coming soon] Jupyter Notebook, GitHub
 * [R, coming soon] Jupyter Notebook, GitHub
@@ -129,7 +129,7 @@ Cathy O'Neil, _Weapons of Math Destruction, 2017_. "Chapter 3 Arms Race: Going t
 
 ### Lecture 4: Table Fundamentals
 
-* [Google Slides](https://docs.google.com/presentation/d/12bpIVXd8MWsFUrzgseijSQRdLu4wule3sZLnlmuANzc/edit?usp=sharing)
+* [Google Slides](https://docs.google.com/presentation/d/1uPUddgDw8wB8SwProycJ3VPy0FXgNn5USztqBjil1mw/edit?usp=drive_link)
 * [datascience] [Jupyter Notebook](curriculum/fundamentals-fa25/py-datascience/lecture/lec04/lec04/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/fundamentals-fa25/py-datascience/lecture/lec04/lec04.ipynb)
 * [polars, coming soon] Jupyter Notebook, GitHub
 * [R, coming soon] Jupyter Notebook, GitHub
@@ -144,7 +144,7 @@ Cathy O'Neil, _Weapons of Math Destruction, 2017_. "Chapter 3 Arms Race: Going t
 
 ### Discussion 3: Documentation, Array Operations and Table Methods
 
-* [Google Slides](https://drive.google.com/file/d/1UsFuJGzVha0374kyMV3CMQgM0NgOzxoK/view?usp=sharing)
+* [Google Slides](https://docs.google.com/presentation/d/1M3sgGdpz1WrMM9YD6KWoGCkbd4Xe2D5DBvRfgbIlcsY/edit?usp=drive_link)
 * [Assignment PDF](https://drive.google.com/file/d/1UsFuJGzVha0374kyMV3CMQgM0NgOzxoK/view?usp=sharing)
 * In this discussion students deepen their understanding of NumPy and arrays by practicing array operations and functions alongside table creation and manipulation methods.
 

@@ -53,7 +53,7 @@ In this module, students examine how computational methods are applied to social
 
 ### Reading 1
 
-Caleb Ziems, William Held, Omar Shaikh, Jiaao Chen, Zhehao Zhang, Diyi Yang; Can Large Language Models Transform Computational Social Science?. Computational Linguistics 2024; 50 (1): 237–291.
+* Caleb Ziems, William Held, Omar Shaikh, Jiaao Chen, Zhehao Zhang, Diyi Yang; Can Large Language Models Transform Computational Social Science?. Computational Linguistics 2024; 50 (1): 237–291.
 
   * [Assignment PDF](https://drive.google.com/file/d/1qqRTkcvpHuA3n7nzs8o8DO_KRWtCl-GV/view?usp=sharing)
 
@@ -80,12 +80,12 @@ This was a shortened week due to Thanksgiving break.
   
 ## Week 3
 
-### Lecture 5: LLMs, Continued
+### Lecture 3: LLMs, Continued
   * [Google Slides](https://docs.google.com/presentation/d/12uQWH6mlAtgQWdTr6GJzJvwv6ZlVoqdNknP3gQL2ayw/edit?usp=sharing)  
   * In this lecture students continue their exploration of large language models, reviewing token prediction and training data before examining the emergent capabilities of LLMs as well as their limitations including hallucinations, and the implications of training on large-scale web data.
 
 
-### Lecture 6: Confusion Matrix / Conclusion
+### Lecture 4: Confusion Matrix / Conclusion
   * [Google Slides](https://docs.google.com/presentation/d/1FK8lAQ7il_26DMAIDMIKKmA-UyR1GCVdUIohf1zRE7o/edit?usp=sharing)  
   * In this lecture students learn how to evaluate the performance of classification models using a confusion matrix, covering accuracy, class accuracy, and the tradeoffs of different classification thresholds. 
 
@@ -96,13 +96,12 @@ This was a shortened week due to Thanksgiving break.
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
 
-## Reading 2
+### Reading 2
 
-K. K. Greene, M. F. Theofanos, C.
+* K. K. Greene, M. F. Theofanos, C.
 Watson, A. Andrews and E. Barron, “Avoiding Past Mistakes in Unethical Human Subjects
 Research: Moving From Artificial Intelligence Principles to Practice.” 2024. [http://doi.org/10.1109/MC.2023.3327653](https://ieeexplore.ieee.org/document/10417823)
-
-[_The Belmont Report_](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html). 1978.
+* [_The Belmont Report_](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html). 1978.
 
 ### Discussion 2: The Belmont Report
 

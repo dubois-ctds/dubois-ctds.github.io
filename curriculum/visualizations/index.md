@@ -55,7 +55,7 @@ In this module, students explore a variety of common data visualizations and how
 ## Week 1
 
 ### Lecture 1: Visualizations
-  * [Google Slides](https://docs.google.com/presentation/d/1kHypBMRJ_HCOeC543VrwRDQnQI0_oogieRPN6GSlUHw/edit?usp=sharing)  
+  * [Google Slides](https://docs.google.com/presentation/d/1Hi5svO7CeeHZp-8br5W9NNfePN9V-DkJQr7A6TuVDcg/edit?usp=drive_link)  
   * [datascience] [Jupyter Notebook](curriculum/visualizations/py-datascience/lecture/lec01/lec01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/visualizations/py-datascience/lecture/lec01/lec01.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
@@ -109,7 +109,7 @@ Schwabish and Feng, "Applying Racial Equity Awareness in Data Visualization." Th
 
 
 ### Discussion 2: Histograms and Summary Statistics
-  * [Google Slides](https://docs.google.com/presentation/d/1E7ZhMiWICfvCpsyvonn3_ESSMsNwtXcfC42Ndv9xvhk/edit?usp=sharing)
+  * [Google Slides](https://docs.google.com/presentation/d/19GEYRRVZsHAJaePuUU12WOSLTanSwe79CcK_tLqTnmo/edit?usp=drive_link)
   * [Assignment PDF](https://drive.google.com/file/d/14uRY4Qc74SbgGq9p-XEH_3nCWPP7bPYU/view?usp=sharing)
   * In this discussion, students choose which visualization method to use per data type and explore histograms by calculating the height of bins and related methods.
 
