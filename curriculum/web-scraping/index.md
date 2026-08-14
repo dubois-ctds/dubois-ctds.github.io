@@ -67,8 +67,8 @@ In this module, students explore how data is collected, structured, and used to 
   * [R, coming soon] Jupyter Notebook, GitHub
   * Students are introduced to web scraping using the BeautifulSoup library, learning how to parse HTML and extract data from web pages.
 
-## Project 2: Wikipedia and Genius
-  * [datascience] [Jupyter Notebook](curriculum/web-scraping/py-datascience/homework/project2/project2/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/web-scraping/py-datascience/homework/project2/project2.ipynb)
+## Project: Wikipedia and Genius
+  * [datascience] [Jupyter Notebook](curriculum/web-scraping/py-datascience/homework/project1/project1/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/web-scraping/py-datascience/homework/project1/project1.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
   * In this lab students apply BeautifulSoup to scrape and parse HTML from a real web page, extracting structured data from tables and building lists of dictionaries, before getting hands-on practice with the Genius API.

@@ -307,8 +307,8 @@ project:
               file: curriculum/web-scraping/py-datascience/lab/lab01/lab01.ipynb
         - title: Project
           children:
-            - title: Project 2
-              file: curriculum/web-scraping/py-datascience/homework/project2/project2.ipynb
+            - title: Project 1
+              file: curriculum/web-scraping/py-datascience/homework/project1/project1.ipynb
         # - title: "py-polars"
         #   children:
         #     - title: Lecture notebooks
