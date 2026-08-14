@@ -47,68 +47,72 @@ In this module, students explore and develop functions, manage variable scope, a
 ## Week 1
 
 ### Lecture 1: Functions, Scope, and Apply
-  * [Google Slides](https://docs.google.com/presentation/d/1o_pmebj1qkgTZZGspO46VAzIEAv2mJKwoVK3JwHGL8U/edit?usp=sharing)  
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec01/lec01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec01/lec01.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
-  * This lecture tasks students with defining function terminology such as parameters inputs, outputs, and return values. Students explore the role of scoping while they learn to apply functions to table columns and utilize string methods.
 
+* [Google Slides](https://docs.google.com/presentation/d/1o_pmebj1qkgTZZGspO46VAzIEAv2mJKwoVK3JwHGL8U/edit?usp=sharing)  
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec01/lec01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec01/lec01.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub
+* This lecture tasks students with defining function terminology such as parameters inputs, outputs, and return values. Students explore the role of scoping while they learn to apply functions to table columns and utilize string methods.
 
 ### Lecture 2: Comparisons and Control
-  * [Google Slides](https://docs.google.com/presentation/d/1Xj--H3GgaXy3BSOaoVvSKUEi8DdUhqt9IW_yg7rZ0a4/edit?usp=sharing)  
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec02/lec02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec02/lec02.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
+
+* [Google Slides](https://docs.google.com/presentation/d/1Xj--H3GgaXy3BSOaoVvSKUEi8DdUhqt9IW_yg7rZ0a4/edit?usp=sharing)  
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec02/lec02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec02/lec02.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub
+* In this lecture, students are tasked with using boolean comparisons, operators, and truth tables. They practice these concepts with nested control statements and boolean short-circuiting.
 
 ### Homework 1: Functions and Conditionals
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/homework/hw01/hw01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/homework/hw01/hw01.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
-  * In this lecture, students are tasked with using boolean comparisons, operators, and truth tables. They practice these concepts with nested control statements and boolean short-circuiting.
+
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/homework/hw01/hw01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/homework/hw01/hw01.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub
+* In this lecture, students are tasked with using boolean comparisons, operators, and truth tables. They practice these concepts with nested control statements and boolean short-circuiting.
 
 ### Discussion 1: Functions and Conditionals
-  * [Google Slides](https://docs.google.com/presentation/d/1oQz6XJcEFZdh7Yx7kQTjtN1TBQdzyZp4ybNLN1x-wtA/edit?usp=sharing)
-  * [Assignment PDF](https://drive.google.com/file/d/1NbUEvJHdifoo4d6IBxjloHn1HukGV_PV/view?usp=sharing)
+
+* [Google Slides](https://docs.google.com/presentation/d/1oQz6XJcEFZdh7Yx7kQTjtN1TBQdzyZp4ybNLN1x-wtA/edit?usp=sharing)
+* [Assignment PDF](https://drive.google.com/file/d/1NbUEvJHdifoo4d6IBxjloHn1HukGV_PV/view?usp=sharing)
+* In this discussion, students are tasked with evaluating nested function expressions and distinguishing between returned values and printed outputs. They build truth tables and analyze the mechanics of scope to understand how Python handles variables inside and outside of functions.
 
 ### Lab 1: Functions and Conditionals
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lab/lab01/lab01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lab/lab01/lab01.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
+
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lab/lab01/lab01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lab/lab01/lab01.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub
+* In this lab, students are tasked with building and applying functions that use the modulo operator. They observe the effects of scope on variables and practice implementing array operations within conditional blocks.
 
 ## Week 2
 
 ### Lecture 3: Iteration
-  * [Google Slides](https://docs.google.com/presentation/d/1F-JGITCNj3rpVjEJcExKZJ0fAQQSYi3FZ6JYU_MH1as/edit?usp=sharing)  
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec03/lec03/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec03/lec03.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
+
+* [Google Slides](https://docs.google.com/presentation/d/1F-JGITCNj3rpVjEJcExKZJ0fAQQSYi3FZ6JYU_MH1as/edit?usp=sharing)  
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec03/lec03/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec03/lec03.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub
+* In this lecture, students explore for and while loops to iterate over arrays, strings, and numeric ranges. They learn to use counters and identify the most appropriate iterative process for a given computational problem. 
 
 ### Lecture 4: Measurements, Validity, and Reliability
-  * [Google Slides](https://docs.google.com/presentation/d/1TJDBW8y5s0-LKK7UBrOENGDgVikTC-kw8tzEL4x2ZlA/edit?usp=sharing)  
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec04/lec04/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec04/lec04.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
 
-### Lecture 5: File Formats, Validity, Reliability and Dictionaries
-  * [Google Slides](https://docs.google.com/presentation/d/1mou_m2_vtouQeKiRAWlXIcygF9ZKrbUVc5P_fF_76XU/edit?usp=sharing)
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec05/lec05/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec05/lec01.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
-  * In this lecture students explore how algorithms produce measurements and examine the concepts of reliability and validity through the lens of BMI as a case study. Students are also introduced to Python dictionaries as a key-value data structure, learning how to create, access, and modify dictionary entries.
+* [Google Slides](https://docs.google.com/presentation/d/1TJDBW8y5s0-LKK7UBrOENGDgVikTC-kw8tzEL4x2ZlA/edit?usp=sharing)  
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lecture/lec04/lec04/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lecture/lec04/lec04.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub
+* Students continue practicing nested conditional logic in both while and for loops. In the second half of lecture, students are tasked with examining the validity and reliability of BMI as a health metric. They discuss how social science measures are constructed and assess the consistency of classification systems.
 
 ### Homework 2: Functions, Algorithms and Measurement
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/homework/hw02/hw02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/homework/hw02/hw02.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
+
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/homework/hw02/hw02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/homework/hw02/hw02.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub
 
 ### Discussion 2: Iteration and Algorithms
-  * [Google Slides](https://docs.google.com/presentation/d/1-ZoaVbDGoeZfh65IOqkQFdweY30Ji-4z6Ggg0Kyk-xY/edit?usp=sharing)
-  * [Assignment PDF](https://drive.google.com/file/d/1YaaohGPWDn4J018EniHbFCd0MU6ht3A-/view?usp=sharing)
+
+* [Google Slides](https://docs.google.com/presentation/d/1-ZoaVbDGoeZfh65IOqkQFdweY30Ji-4z6Ggg0Kyk-xY/edit?usp=sharing)
+* [Assignment PDF](https://drive.google.com/file/d/1YaaohGPWDn4J018EniHbFCd0MU6ht3A-/view?usp=sharing)
 
 ### Lab 2: Iterations
-  * [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lab/lab02/lab02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lab/lab02/lab02.ipynb)
-  * [polars, coming soon] Jupyter Notebook, GitHub
-  * [R, coming soon] Jupyter Notebook, GitHub
 
-
-
+* [datascience] [Jupyter Notebook](curriculum/functions/py-datascience/lab/lab02/lab02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/functions/py-datascience/lab/lab02/lab02.ipynb)
+* [polars, coming soon] Jupyter Notebook, GitHub
+* [R, coming soon] Jupyter Notebook, GitHub

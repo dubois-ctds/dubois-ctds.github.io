@@ -295,10 +295,6 @@ project:
     - title: "Current Topics: Dictionaries, Web Scraping, HTML"
       children:
         - file: curriculum/web-scraping/index.md
-        # - file: curriculum/current-topics/week1.md
-        # - file: curriculum/current-topics/week2.md
-        # - title: "py-datascience"
-        #   children:
         - title: Lecture notebooks
           children:
             - title: Lecture 01

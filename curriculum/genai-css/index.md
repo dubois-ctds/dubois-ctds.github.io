@@ -96,13 +96,12 @@ This was a shortened week due to Thanksgiving break.
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
 
-## Reading 2
+### Reading 2
 
-K. K. Greene, M. F. Theofanos, C.
+* K. K. Greene, M. F. Theofanos, C.
 Watson, A. Andrews and E. Barron, “Avoiding Past Mistakes in Unethical Human Subjects
 Research: Moving From Artificial Intelligence Principles to Practice.” 2024. [http://doi.org/10.1109/MC.2023.3327653](https://ieeexplore.ieee.org/document/10417823)
-
-[_The Belmont Report_](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html). 1978.
+* [_The Belmont Report_](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html). 1978.
 
 ### Discussion 2: The Belmont Report
 

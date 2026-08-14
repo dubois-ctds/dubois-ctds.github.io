@@ -25,6 +25,7 @@ Each module can be adapted to a 2-4 week undergraduate course with a total of 4 
   * Overiew pages will note which module materials have been classroom-tested (most are!)
 * Access [our GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/) for all Jupyter notebooks.
 * Access [our Google Drive](https://drive.google.com/drive/folders/1cAT-yZejMznLQEEdR49S9dpfTnshWDdh?usp=drive_link) for all slides, docs, and PDFs.
+* Read [Data 6 Notes](https://data6.org/notes/).
 
 ## Course Syllabi
 
