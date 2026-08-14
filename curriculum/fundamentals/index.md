@@ -3,7 +3,10 @@ title: "Fundamentals of Data Science Module"
 short_title: "Module Overview"
 ---
 
+:::{warning} Partially classroom-tested
+
 A portion of these materials have been classroom-tested: the Kaggle classroom assignment.
+:::
 
 ## Module Description
 

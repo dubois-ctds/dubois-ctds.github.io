@@ -3,7 +3,14 @@ title: "Data and Privacy Module"
 short_title: "Module Overview"
 ---
 
-This module is not classroom-tested. For some classroom-tested assignments on this topic, see our Fundamentals modules.
+:::{warning} Not classroom-tested
+
+
+This module is not classroom-tested. For some classroom-tested assignments on this topic, see also our Fundamentals modules:
+
+* [Kaggle homework](/curriculum/fundamentals/homework/hw01/hw01.ipynb)
+* [Fundamentals (2025) Readings](/curriculum/fundamentals-fa25/index.md)
+:::
 
 ## Module Description
 

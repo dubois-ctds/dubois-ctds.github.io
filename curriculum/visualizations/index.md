@@ -3,7 +3,11 @@ title: "Visualizations Module"
 short_title: "Module Overview"
 ---
 
-This Visualizations module was classroom-tested in Data 6 Fall 2025.
+:::{tip} ✅ Classroom-tested
+:icon: false
+
+This module was classroom-tested most recently in Spring and Summer 2026.
+:::
 
 ## Module Description
 

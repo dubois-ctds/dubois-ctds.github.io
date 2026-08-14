@@ -3,7 +3,13 @@ title: "Fundamentals of Data Science (Fall 2025)"
 short_title: "Module Overview"
 ---
 
-This Fundamentals module was classroom-tested in Data 6 Fall 2025. Because of academic holidays, several weeks have only one lecture.
+:::{tip} ✅ Classroom-tested
+:icon: false
+
+This module was classroom-tested most recently in Spring and Summer 2026.
+:::
+
+Because of academic holidays, several weeks have only one lecture.
 
 ## Module Description
 

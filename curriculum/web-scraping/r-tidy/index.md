@@ -4,6 +4,7 @@ short_title: "Overview"
 ---
 
 ## Module Description
+
 This Current Topics module is classroom-tested from Data 6 Fall 2025. 
 
 In this module, students explore how data is collected, structured, and used to draw conclusions about the world. Beginning with measurements and Python dictionaries, students build toward web scraping and API-based data collection.

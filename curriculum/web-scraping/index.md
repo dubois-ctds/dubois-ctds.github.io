@@ -3,7 +3,11 @@ title: "Current Topics - Dictionaries, Web Scraping, HTML"
 short_title: "Module Overview"
 ---
 
-This Web Scraping module was classroom-tested in Data 6 Fall 2025.
+:::{tip} ✅ Classroom-tested
+:icon: false
+
+This module was classroom-tested most recently in Fall 2025.
+:::
 
 ## Module Description
 

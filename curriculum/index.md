@@ -1,5 +1,6 @@
 ---
 title: "About the Curriculum"
+short_title: "Curriculum"
 ---
 
 This introductory data science course curriculum for undergraduates is split into modules. Computational thinking course instructors that are looking for data science applications are especially encouraged to adapt this work in all or in part.
@@ -14,16 +15,21 @@ Each module can be adapted to a 2-4 week undergraduate course with a total of 4 
 * **Discussion**: Unplugged discussion worksheets (PDFs). Weekly.
 * **Homework and Projects**: Take-home longer assignments as otter-supported autograded[^otter] Jupyter Notebooks. Approximately bi-weekly.
 
-[^otter]: We use [otter-grader](https://otter-grader.readthedocs.io/) Python package for autograding Jupyter Notebooks
+[^otter]: We use [otter-grader](https://otter-grader.readthedocs.io/) Python package for autograding Jupyter Notebooks.
 
-### Browse the curriculum
+## Access the Course Curriculum
 
-* (easiest) Access the website's **sidebar menu**:
+* (easiest) Access on our [DUBOIS webpage](/) via the website's **sidebar menu**:
   * Descriptive module overviews
   * View-only Jupyter notebooks as HTML pages
   * Overiew pages will note which module materials have been classroom-tested (most are!)
 * Access [our GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/) for all Jupyter notebooks.
-* Access [our Google Drive](https://drive.google.com/drive/folders/1cAT-yZejMznLQEEdR49S9dpfTnshWDdh?usp=drive_link) for all slides and PDFs.
+* Access [our Google Drive](https://drive.google.com/drive/folders/1cAT-yZejMznLQEEdR49S9dpfTnshWDdh?usp=drive_link) for all slides, docs, and PDFs.
+
+## Course Syllabi
+
+* Laney College: [CIS 116 Syllabus](https://drive.google.com/file/d/1U1mfgJw3QEzCDW2So9AjhPmp9eynVAqm/view?usp=sharing)
+* UC Berkeley: [Data 6 Syllabus](https://data6.org/fa25/)
 
 ### Why are there different versions?
 
@@ -37,10 +43,6 @@ We are in the process of translating a set of extended materials to other APIs:
 
 Please [contact us](team/) if you are interested in adopting these extended materials.
 
-## Course Syllabi
-
-* Laney College: [CIS 116 Syllabus](https://drive.google.com/file/d/1U1mfgJw3QEzCDW2So9AjhPmp9eynVAqm/view?usp=sharing)
-* UC Berkeley: [Data 6 Syllabus](https://data6.org/fa25/)
 
 ## Usage and License
 

@@ -3,7 +3,11 @@ title: "Functions and Algorithms"
 short_title: "Module Overview"
 ---
 
-This Functions and Algorithms module was classroom-tested in Data 6 Fall 2025.
+:::{tip} ✅ Classroom-tested
+:icon: false
+
+This module was classroom-tested most recently in Spring and Summer 2026.
+:::
 
 ## Module Description
 

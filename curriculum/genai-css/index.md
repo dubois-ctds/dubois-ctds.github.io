@@ -3,7 +3,13 @@ title: "Current Topics: GenAI and Computational Social Science"
 short_title: "Module Overview"
 ---
 
-This Current Topics module was classroom-tested in Data 6 Fall 2025. We recommend about three weeks for the Final Project.
+:::{tip} ✅ Classroom-tested
+:icon: false
+
+This module was classroom-tested most recently in Spring and Summer 2026.
+:::
+
+If your course meets once or twice a week, we recommend about three weeks for the Final Project assignments.
 
 ## Module Description
 
