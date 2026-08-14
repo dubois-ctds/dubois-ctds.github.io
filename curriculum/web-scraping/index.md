@@ -42,13 +42,12 @@ In this module, students explore how data is collected, structured, and used to 
 
 ## Week 1
 
-### Lecture 1: Dictionaries, HTML, BeautifulSoup
-  * [Google Slides](https://docs.google.com/presentation/d/1zfrCWiWS_7_YzSEU2EMbCdn2Y0EtYtE2F6L3cjhP4I8/edit?usp=sharing)
+### Lecture 1: Dictionaries and File Formats
+  * [Google Slides](https://docs.google.com/presentation/d/1mou_m2_vtouQeKiRAWlXIcygF9ZKrbUVc5P_fF_76XU/edit?usp=sharing)
   * [datascience] [Jupyter Notebook](curriculum/web-scraping/py-datascience/lecture/lec01/lec01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/web-scraping/py-datascience/lecture/lec01/lec01.ipynb)
   * [polars, coming soon] Jupyter Notebook, GitHub
   * [R, coming soon] Jupyter Notebook, GitHub
-  * In this lecture students continue working with dictionaries, exploring iteration and conditions, before moving into file formats including JSON, CSV, and HTML. Students are introduced to web scraping using the BeautifulSoup library, learning how to parse HTML and extract data from web pages.
-
+  * Students are also introduced to Python dictionaries as a key-value data structure, learning how to create, access, and modify dictionary entries. Students also explore iterating over dictionary keys and values.
 
 ### Lab 1: Dictionaries
   * [datascience] [Jupyter Notebook](curriculum/web-scraping/py-datascience/lab/lab01/lab01/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/web-scraping/py-datascience/lab/lab01/lab01.ipynb)
@@ -56,7 +55,17 @@ In this module, students explore how data is collected, structured, and used to 
   * [R, coming soon] Jupyter Notebook, GitHub
   * In this lab students practice creating and manipulating Python dictionaries, working with key-value pairs, dictionary methods, and iteration, and apply these skills to convert JSON data into Python dictionaries.
 
+### Reading 1: File Formats
+  * Data 6 Notes: [File Formats](https://data6.org/notes/17-dictionaries/file-formats.html)
+
 ## Week 2
+
+### Lecture 2: HTML, BeautifulSoup
+  * [Google Slides](https://docs.google.com/presentation/d/1zfrCWiWS_7_YzSEU2EMbCdn2Y0EtYtE2F6L3cjhP4I8/edit?usp=sharing)
+  * [datascience] [Jupyter Notebook](curriculum/web-scraping/py-datascience/lecture/lec02/lec02/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/web-scraping/py-datascience/lecture/lec02/lec02.ipynb)
+  * [polars, coming soon] Jupyter Notebook, GitHub
+  * [R, coming soon] Jupyter Notebook, GitHub
+  * Students are introduced to web scraping using the BeautifulSoup library, learning how to parse HTML and extract data from web pages.
 
 ## Project 2: Wikipedia and Genius
   * [datascience] [Jupyter Notebook](curriculum/web-scraping/py-datascience/homework/project2/project2/), [GitHub](https://github.com/dubois-ctds/dubois-ctds.github.io/blob/main/curriculum/web-scraping/py-datascience/homework/project2/project2.ipynb)
