@@ -28,10 +28,18 @@ project:
               file: curriculum/fundamentals/lab/lab01/lab01.ipynb
             - title: Lab 02
               file: curriculum/fundamentals/lab/lab02/lab02.ipynb
+            - title: Lab 03
+              file: curriculum/fundamentals/lab/lab03/lab03.ipynb
+            - title: Lab 04
+              file: curriculum/fundamentals/lab/lab04/lab04.ipynb
         - title: Homework notebooks
           children:
             - title: Homework 01
               file: curriculum/fundamentals/homework/hw01/hw01.ipynb
+            - title: Homework 02
+              file: curriculum/fundamentals/homework/hw02/hw02.ipynb
+            - title: Homework 03
+              file: curriculum/fundamentals/homework/hw03/hw03.ipynb
 
     - title: "Fundamentals (Fall 2025)"
       children:
