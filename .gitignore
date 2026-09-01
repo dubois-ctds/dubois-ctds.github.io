@@ -33,3 +33,6 @@ symposium/curriculum03/requirements.txt
 symposium/curriculum03/api_key.py
 
 __pycache__/
+
+# Jupyter notebook
+.ipynb_checkpoints/
