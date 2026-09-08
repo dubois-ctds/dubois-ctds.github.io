@@ -13,6 +13,18 @@ project:
     - file: index.md
     - file: curriculum/index.md
 
+    - title: "Data 8 Conversion"
+      children:
+        - file: curriculum/data8-conversion/index.md
+        - title: Lecture notebooks
+          children:
+            - title: Section 3.4
+              file: curriculum/data8-conversion/textbook/section3_4/Introduction_to_Tables.ipynb
+            - title: Section 6.0
+              file: curriculum/data8-conversion/textbook/section6_0/Tables.ipynb
+            # - title: Lecture 02
+            #   file: curriculum/data8-conversion/lecture/lec02/lec02.ipynb
+
     - title: "Fundamentals"
       children:
         - file: curriculum/fundamentals/index.md
@@ -241,6 +253,8 @@ project:
               file: curriculum/functions/py-datascience/lab/lab02/lab02.ipynb
             - title: Lab 03
               file: curriculum/functions/py-datascience/lab/lab03/lab03.ipynb
+            - title: Data 8 Conversion
+              file: curriculum/functions/py-polars/lecture/lec05/Introduction_to_Tables.ipynb
         - title: Homeworks
           children:
             - title: Homework 01
