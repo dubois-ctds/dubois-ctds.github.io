@@ -20,6 +20,14 @@ project:
           children:
             - title: Section 3.4
               file: curriculum/data8-conversion/textbook/section3_4/Introduction_to_Tables.ipynb
+            - title: Section 5.0
+              file: curriculum/data8-conversion/textbook/05/Sequences.ipynb
+            - title: Section 5.1
+              file: curriculum/data8-conversion/textbook/05/1/Arrays.ipynb
+            - title: Section 5.2
+              file: curriculum/data8-conversion/textbook/05/2/Ranges.ipynb
+            - title: Section 5.3
+              file: curriculum/data8-conversion/textbook/05/3/More_on_Arrays.ipynb
             - title: Section 6.0
               file: curriculum/data8-conversion/textbook/section6_0/Tables.ipynb
             # - title: Lecture 02
@@ -253,8 +261,6 @@ project:
               file: curriculum/functions/py-datascience/lab/lab02/lab02.ipynb
             - title: Lab 03
               file: curriculum/functions/py-datascience/lab/lab03/lab03.ipynb
-            - title: Data 8 Conversion
-              file: curriculum/functions/py-polars/lecture/lec05/Introduction_to_Tables.ipynb
         - title: Homeworks
           children:
             - title: Homework 01
